@@ -2,6 +2,7 @@
 Implementacion de una plataforma de real state
 
 ![Imagen de Real state](./doc/images/img1.jpg)
+
 ![Imagen de Real state](./doc/images/img2.jpg)
 
 Instalacion en Windows:

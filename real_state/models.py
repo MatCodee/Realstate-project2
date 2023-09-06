@@ -72,8 +72,8 @@ class Property(models.Model):
         return self.title
     
     def save(self, *args, **kwargs):
-        if not self.codigo:
-            self.codigo = str(uuid.uuid4())[:10].replace('-', '')
+        if not self.code:
+            self.code = str(uuid.uuid4())[:10].replace('-', '')
         super().save(*args, **kwargs)
     
     def delete(self):

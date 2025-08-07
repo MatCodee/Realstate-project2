@@ -26,9 +26,20 @@
     <link rel="apple-touch-icon" href="icon.png">
     <meta name="theme-color" content="#3454d1">
     <link href="{% static 'css/styles.css' %}" rel="stylesheet">
+    <link href="{% static 'css/ws.css' %}" rel="stylesheet">
+    <link href="{% static 'css/common.css' %}" rel="stylesheet">
+
 </head>
 
 <body>
+
+    <!-- ws button -->
+    <a href="https://www.whatsapp.com/?lang=es_LA" class="container-button-ws" target="_blank"> 
+        <img src="{% static 'images/ws-white.png' %}" alt="">
+    </a>
+
+
+
     {% if request.path != '/' %}
     <!-- NAVBAR TOP -->
     <div class="topbar d-none d-sm-block">
@@ -67,9 +78,6 @@
     <!-- END NAVBAR TOP -->
     <nav class="navbar navbar-hover navbar-expand-lg navbar-soft">
         <div class="container">
-            <a class="navbar-brand" href="#">
-                <img src="images/logo-blue-stiky.png" alt="" class="img-fluid">
-            </a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#main_nav99">
                 <span class="navbar-toggler-icon"></span>
             </button>
@@ -174,22 +182,18 @@
                     <!-- ADDRESS -->
                     <div class="col-md-4">
                         <div class="widget__footer">
-                            <figure>
-                                <img src="images/logo-blue.png" alt="" class="logo-footer">
-                            </figure>
-                            <p>
-                                Rethouse Real Estate is a premium Property template based on Bootstrap 4. Rethouse Real
-                                Estate helped thousands of clients to find the right property for their needs.
+                            <h4 class="footer-title">AndesPropiedades</h4>
 
+     
+                            <p>
+                                Tu nuevo hogar te espera en Santiago.
                             </p>
 
                             <ul class="list-unstyled mb-0 mt-3">
-                                <li> <b> <i class="fa fa-map-marker"></i></b><span>214 West Arnold St. New York, NY
-                                        10002</span> </li>
-                                <li> <b><i class="fa fa-phone-square"></i></b><span>(123) 345-6789</span> </li>
-                                <li> <b><i class="fa fa-phone-square"></i></b><span>(+100) 123 456 7890</span> </li>
-                                <li> <b><i class="fa fa-headphones"></i></b><span>support@realvilla.demo</span> </li>
-                                <li> <b><i class="fa fa-clock-o"></i></b><span>Mon - Sun / 9:00AM - 8:00PM</span> </li>
+                                <li> <b> <i class="fa fa-map-marker"></i></b><span>📍 Dirección: Av. Apoquindo 3456, Las Condes, Santiago, Chile  </span> </li>
+                                <li> <b><i class="fa fa-phone-square"></i></b><span> 📞 Teléfono: +56 9 1234 5678   </span> </li>
+                                <li> <b><i class="fa fa-headphones"></i></b><span> 📧 Email: contacto@andespropiedades.cl </span> </li>
+                                <li> <b><i class="fa fa-clock-o"></i></b><span> 🕒 Horario: Lunes a Viernes, 9:00 a 18:00 hrs </span> </li>
                             </ul>
                         </div>
 
@@ -199,51 +203,29 @@
                     <!-- QUICK LINKS -->
                     <div class="col-md-4">
                         <div class="widget__footer">
-                            <h4 class="footer-title">Quick Links</h4>
+                            <h4 class="footer-title">Enlaces</h4>
                             <div class="link__category-two-column">
                                 <ul class="list-unstyled ">
                                     <li class="list-inline-item">
-                                        <a href="#">Commercial</a>
+                                        <a href="#">Home</a>
                                     </li>
                                     <li class="list-inline-item">
-                                        <a href="#">business</a>
+                                        <a href="#">Nosotros</a>
                                     </li>
                                     <li class="list-inline-item">
-                                        <a href="#">House</a>
+                                        <a href="#">Propiedades</a>
                                     </li>
                                     <li class="list-inline-item">
-                                        <a href="#">Residential</a>
+                                        <a href="#">Equipo</a>
                                     </li>
 
                                     <li class="list-inline-item">
-                                        <a href="#">Residential Tower</a>
+                                        <a href="#">Blog</a>
                                     </li>
                                     <li class="list-inline-item">
-                                        <a href="#">Beverly Hills</a>
+                                        <a href="#">Contáctanos</a>
                                     </li>
-                                    <li class="list-inline-item">
-                                        <a href="#">Los angeles</a>
-                                    </li>
-                                    <li class="list-inline-item">
-                                        <a href="#">The beach</a>
-                                    </li>
-                                    <li class="list-inline-item">
-                                        <a href="#">Property Listing</a>
-                                    </li>
-
-                                    <li class="list-inline-item">
-                                        <a href="#">Clasic</a>
-                                    </li>
-                                    <li class="list-inline-item">
-                                        <a href="#">Modern Home</a>
-                                    </li>
-
-                                    <li class="list-inline-item">
-                                        <a href="#">Luxury</a>
-                                    </li>
-                                    <li class="list-inline-item">
-                                        <a href="#">Beach Pasadena</a>
-                                    </li>
+    
                                 </ul>
                             </div>
                         </div>
@@ -254,10 +236,9 @@
                     <!-- NEWSLETTERS -->
                     <div class="col-md-4">
                         <div class="widget__footer">
-                            <h4 class="footer-title">follow us </h4>
+                            <h4 class="footer-title">Síguenos </h4>
                             <p class="mb-2">
-                                Follow us and stay in touch to get the latest news
-                            </p>
+                                Síguenos en nuestras redes sociales                            </p>
                             <p>
                                 <button class="btn btn-social btn-social-o facebook mr-1">
                                     <i class="fa fa-facebook-f"></i>

@@ -1,6 +1,6 @@
 from django.db import models
 import boto3
-from app.settings import AWS_STORAGE_BUCKET_NAME,DEBUG
+from app.settings import base
 import uuid
 
 

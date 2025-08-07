@@ -92,7 +92,7 @@
 
                 <div class="col-12 col-lg-3 col-md-3">
                     <div class="form-group">
-                        <button type="submit" class="btn btn-primary text-uppercase btn-block"> search <i
+                        <button type="submit" class="btn btn-primary text-uppercase btn-block"> Buscar <i
                                 class="fa fa-search ml-1"></i></button>
                     </div>
                 </div>
@@ -113,19 +113,19 @@
                             <!-- FILTER VERTICAL -->
                             <ul class="nav nav-pills myTab" role="tablist">
                                 <li class="list-inline-item mr-auto">
-                                    <span class="title-text">Sort by</span>
+                                    <span class="title-text">Ordenar por </span>
                                     <div class="btn-group">
                                         <a href="javascript:void(0)" class="dropdown-toggle" data-toggle="dropdown"
                                             aria-haspopup="true" aria-expanded="false">
-                                            Based Properties
+                                            Propiedades
                                         </a>
                                         <div class="dropdown-menu">
-                                            <a class="dropdown-item" href="javascript:void(0)">Low to High Price</a>
-                                            <a class="dropdown-item" href="javascript:void(0)">High to Low Price
+                                            <a class="dropdown-item" href="javascript:void(0)">Menor a mayor precio</a>
+                                            <a class="dropdown-item" href="javascript:void(0)">Mayor a menor precio
                                             </a>
-                                            <a class="dropdown-item" href="javascript:void(0)">Sell Properties</a>
+                                            <a class="dropdown-item" href="javascript:void(0)">Propiedades en venta</a>
 
-                                            <a class="dropdown-item" href="javascript:void(0)">Rent Properties</a>
+                                            <a class="dropdown-item" href="javascript:void(0)">Propiedades en arriendo</a>
                                         </div>
                                     </div>
                                 </li>
@@ -319,6 +319,29 @@
                 </div>
 
             </div>
+
+
+            <div class="col-6 col-lg-3 col-md-3">
+                <div class="pagination">
+                    <span class="step-links">
+                        {% if page_obj.has_previous %}
+                            <a href="?page={{ page_obj.previous_page_number }}"> {{ page_obj.previous_page_number }} </a>
+                        {% endif %}
+
+                        <span class="current">
+                            {{ page_obj.number }}
+                        </span>
+
+                        {% if page_obj.has_next %}
+                            <a href="?page={{ page_obj.next_page_number }}"> {{page_obj.next_page_number }}</a>
+                        {% endif %}
+                    </span>
+                </div>                           
+            </div>
+             
+   
+
+
         </div>
     </div>
 </section>

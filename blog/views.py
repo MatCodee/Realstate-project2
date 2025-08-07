@@ -1,17 +1,29 @@
 from django.shortcuts import render
+from django.core.paginator import Paginator
+
 from .models import Blog,BlogImage,BlogParagraph
-
-def BlogView(request):
-    context = {}
-    context['blogs'] = Blog.objects.all()
-    return render(request,"blog_list.html",context)
+from django.views.generic import ListView
+from django.views.generic import DetailView
 
 
-def DetailBlogView(request,id):
-    context = {}
-    blog_data = Blog.objects.get(pk=id) 
-    context['blog'] = blog_data
-    blog_paragraphs = BlogParagraph.objects.filter(blog=blog_data)
-    blog_images =  BlogImage.objects.filter(blog=blog_data)
-    context['combined_data'] = list(zip(blog_paragraphs, blog_images))
-    return render(request,"detail_blog.html",context)
+class BlogListView(ListView):
+    model = Blog
+    template_name = "blog_list.html"
+    paginate_by = 3
+
+
+class BlogDetailView(DetailView):
+    model = Blog
+    template_name = "detail_blog.html"
+    context_object_name = "blog"
+    pk_url_kwarg = "id"
+
+    def get_context_data(self, **kwargs):
+        context = super().get_context_data(**kwargs)
+        blog = self.get_object()
+
+        blog_paragraphs = BlogParagraph.objects.filter(blog=blog)
+        blog_images = BlogImage.objects.filter(blog=blog)
+        
+        context['combined_data'] = list(zip(blog_paragraphs, blog_images))
+        return context

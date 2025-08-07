@@ -1,0 +1,13 @@
+
+
+
+/**/
+.pagination .step-links {
+    margin: auto;
+}
+.pagination .step-links  a{
+    padding: 8px 10px;
+    margin-right: 10px;
+    color: white;
+    background-color: #3454d1;
+}

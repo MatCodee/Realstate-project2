@@ -37,7 +37,7 @@
             <!-- BLOG START -->
             <div class="col-lg-8">
                 <div class="row">
-                    {% for blog in blogs %}
+                    {% for blog in page_obj %}
                     <div class="col-md-6 col-lg-12">
                         <div class="blog__grid mt-0">
                             <!-- BLOG  -->
@@ -50,18 +50,13 @@
                                     <h6 class="text-capitalize">
                                         <a href="/blog/detail/{{blog.id}}">{{blog.title}}</a>
                                     </h6>
-                                </div>
-                                <div class="card__image-footer">
-                                    <ul class="list-inline my-auto">
-                                        <li class="list-inline-item ">{{blog.author}}</li>
-                                    </ul>
+                                    
                                     <ul class="list-inline my-auto ml-auto">
                                         <li class="list-inline-item ">
                                             <a href="/blog/detail/{{blog.id}}" class="btn btn-sm btn-primary "><small
                                                     class="text-white ">Leer Mas <i
                                                         class="fa fa-angle-right ml-1"></i></small></a>
                                         </li>
-
                                     </ul>
                                 </div>
                             </div>
@@ -76,6 +71,9 @@
             </div>
             <!-- END BLOG  -->
 
+
+
+
             <!-- WIDGET BLOG -->
             <div class="col-lg-4">
                 <div class="sticky-top">
@@ -86,75 +84,57 @@
                             </div>
                             <div class="widget__sidebar__body">
                                 <!-- ONE -->
-                                <div class="widget__sidebar__body-img">
-                                    <img src="images/500x400.jpg" alt="" class="img-fluid">
-                                    <div class="widget__sidebar__body-heading">
-                                        <h6 class="text-capitalize">
-                                            tips memilih rumah bagi kelurga muda
-                                        </h6>
+                                {% for blog in page_obj %}
+                                    <div class="widget__sidebar__body-img">
+                                        <div class="widget__sidebar__body-heading">
+                                            <h6 class="text-capitalize">
+                                                {{blog.title}}
+                                            </h6>
+
+                                        </div>
+                                        <span class="badge badge-secondary p-1 text-capitalize mb-1"> {{blog.updated_at}} </span>
                                     </div>
-                                    <span class="badge badge-secondary p-1 text-capitalize mb-1">May 08, 2019 </span>
-                                </div>
-                                <!-- TWO -->
-                                <div class="widget__sidebar__body-img">
-                                    <img src="images/500x400.jpg" alt="" class="img-fluid">
-
-                                    <div class="widget__sidebar__body-heading">
-                                        <h6 class="text-capitalize">
-                                            tips memilih rumah bagi kelurga muda
-                                        </h6>
-
-                                    </div>
-                                    <span class="badge badge-secondary p-1 text-capitalize mb-1">May 08, 2019
-                                    </span>
-                                </div>
-                                <!-- THREE -->
-                                <div class="widget__sidebar__body-img">
-                                    <img src="images/500x400.jpg" alt="" class="img-fluid">
-
-                                    <div class="widget__sidebar__body-heading">
-                                        <h6 class="text-capitalize">
-                                            twe are experience more than 10 years
-                                        </h6>
-
-                                    </div>
-                                    <span class="badge badge-secondary p-1 text-capitalize mb-1">May 08, 2019
-                                    </span>
-                                </div>
-                                <!-- FOUR -->
-                                <div class="widget__sidebar__body-img">
-                                    <img src="images/500x400.jpg" alt="" class="img-fluid">
-
-                                    <div class="widget__sidebar__body-heading">
-                                        <h6 class="text-capitalize">
-                                            tips & trick in real estate
-                                        </h6>
-
-                                    </div>
-                                    <span class="badge badge-secondary p-1 text-capitalize mb-1">May 08, 2019
-                                    </span>
-                                </div>
-
-                                <div class="widget__sidebar__body-img">
-                                    <img src="images/500x400.jpg" alt="" class="img-fluid">
-
-                                    <div class="widget__sidebar__body-heading">
-                                        <h6 class="text-capitalize">
-                                            how buy real estate dream house
-                                        </h6>
-                                    </div>
-                                    <span class="badge badge-secondary p-1 text-capitalize mb-1">May 08, 2019
-                                    </span>
-                                </div>
+                                {% endfor %}
+            
                             </div>
                         </div>
                     </aside>
                 </div>
             </div>
             <!-- END WIDGET BLOG -->
+        
+
+            <div class="col-lg-8 mt-5">
+                <div class="pagination">
+                    <span class="step-links">
+                        {% if page_obj.has_previous %}
+                            <a href="?page={{ page_obj.previous_page_number }}"> {{ page_obj.previous_page_number }} </a>
+                        {% endif %}
+
+                        <span class="current">
+                            {{ page_obj.number }}
+                        </span>
+
+                        {% if page_obj.has_next %}
+                            <a href="?page={{ page_obj.next_page_number }}"> {{page_obj.next_page_number }}</a>
+                        {% endif %}
+                    </span>
+                </div>                           
+            </div>
+             
+   
+
+
+        
         </div>
     </div>
+
+
+
 </section>
+
+
+
 <!-- END LISTING LIST -->
 
 

@@ -12,28 +12,27 @@ https://docs.djangoproject.com/en/3.1/ref/settings/
 
 from pathlib import Path
 import os
-import environ
+from decouple import config
+import logging
 
 
-env = environ.Env()
-environ.Env.read_env()
 
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
-BASE_DIR = Path(__file__).resolve().parent.parent
+BASE_DIR = Path(__file__).resolve().parent.parent.parent
 
 
 # Quick-start development settings - unsuitable for production
 # See https://docs.djangoproject.com/en/3.1/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = env('SECRET_KEY')
+SECRET_KEY = config('SECRET_KEY')
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
-#DEBUG = env.bool('DEBUG', default=False)
 
-ALLOWED_HOSTS = ["*"]
+DEBUG = config('DEBUG', default=False, cast=bool)
+
+
 
 
 # Application definition
@@ -47,7 +46,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     "whitenoise.runserver_nostatic",
     
-    
+    'django_recaptcha',
     'django.contrib.sitemaps',
     
     'real_state',
@@ -97,25 +96,6 @@ WSGI_APPLICATION = 'app.wsgi.application'
 
 # Implementacion de la base de datos: 
 
-if env.bool('DEV_ENVIRONT', default=False):
-    DATABASES = {
-        'default': {
-            'ENGINE': 'django.db.backends.sqlite3',
-            'NAME': BASE_DIR / 'db.sqlite3',
-        }
-    }
-else:
-    DATABASES = {
-        'default': {
-            'ENGINE': 'django.db.backends.postgresql',
-            'NAME': env('PGDATABASE'),
-            'USER': env('PGUSER'),
-            'PASSWORD': env('PGPASSWORD'),
-            'HOST': env('PGHOST'),
-            'PORT': env('PGPORT'),
-        }
-    }
-
 
 
 # Password validation
@@ -141,8 +121,8 @@ AUTH_PASSWORD_VALIDATORS = [
 EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = 587 
-EMAIL_HOST_USER = env('USER_MAIL_USER')
-EMAIL_HOST_PASSWORD = env('USER_MAIL_PASSWORD')
+EMAIL_HOST_USER = config('USER_MAIL_USER')
+EMAIL_HOST_PASSWORD = config('USER_MAIL_PASSWORD')
 EMAIL_USE_SSL = False 
 EMAIL_USE_TLS = True
 
@@ -156,54 +136,44 @@ USE_L10N = True
 USE_TZ = True
 
 
-# Static files (CSS, JavaScript, Images)
-# https://docs.djangoproject.com/en/3.1/howto/static-files/
+
+# LOGS
+
+from django.utils.log import DEFAULT_LOGGING
 
 
-# configuracion de archivos estaticos:
+# Config Logging:
+LOGGING = {
+    'version': 1,
+    'disable_existing_loggers': False,
+    'formatters': {
+        'verbose': {
+            'format': '{levelname} {asctime} {module} {message}',
+            'style': '{',
+        },
+    },
+    'handlers': {
+        'file': {
+            'level': 'DEBUG',
+            'class': 'logging.FileHandler',
+            'filename': BASE_DIR / 'logs/django.log',
+            'formatter': 'verbose',
+        },
+        'console': {
+            'level': 'DEBUG',
+            'class': 'logging.StreamHandler',
+            'formatter': 'verbose',
+        }
+    },
+    'loggers': {
+        '': {
+            'handlers': ['file', 'console'],
+            'level': 'DEBUG',
+            'propagate': True,
+        },
+    },
+}
 
 
-
-# configuracion de AWS para la subida de imagenes S3 y la configuracion de forma local
-
-    
-AWS_ACCESS_KEY_ID = env('AWS_ACCESS_KEY_ID')
-AWS_SECRET_ACCESS_KEY = env('AWS_SECRET_ACCESS_KEY')
-AWS_STORAGE_BUCKET_NAME = env('AWS_STORAGE_BUCKET_NAME')
-AWS_S3_REGION_NAME = env('AWS_S3_REGION_NAME')
-    
-if env.bool('DEV_ENVIRONT', default=False):
-    STATICFILES_DIRS = [
-        BASE_DIR / "static",
-    ]
-    STATIC_URL = '/static/'
-    STATIC_ROOT = "staticfiles"
-    MEDIA_URL = '/media/'
-    MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
-else:
-    print("Entro aqui")
-    STATICFILES_DIRS = [
-        BASE_DIR / "static",
-    ]
-    STATIC_URL = '/static/'
-    STATIC_ROOT = "staticfiles"    
-    # Configuración de almacenamiento estático en AWS S3
-    AWS_S3_CUSTOM_DOMAIN = f'{AWS_STORAGE_BUCKET_NAME}.s3.amazonaws.com'
-    
-    #STATIC_URL = f'https://{AWS_S3_CUSTOM_DOMAIN}/static/'
-    #STATICFILES_STORAGE = 'storages.backends.s3boto3.S3Boto3Storage'
-
-
-    # Configuración de almacenamiento de archivos de medios en AWS S3
-    #DEFAULT_FILE_STORAGE = 'storages.backends.s3boto3.S3Boto3Storage'
-    MEDIA_URL = f'https://{AWS_S3_CUSTOM_DOMAIN}/media/'
-    PUBLIC_MEDIA_LOCATION = 'media_cdn'
-
-    DEFAULT_FILE_STORAGE = 'app.storage_settigns.MediaStorage'  
-
-    # Configuración adicional opcional
-    AWS_S3_OBJECT_PARAMETERS = {
-        'CacheControl': 'max-age=86400',
-    }
-    STATICFILES_STORAGE = "whitenoise.storage.CompressedStaticFilesStorage"
-
+RECAPTCHA_PUBLIC_KEY = config('RECAPTCHA_PUBLIC_KEY')
+RECAPTCHA_PRIVATE_KEY = config('RECAPTCHA_PRIVATE_KEY')

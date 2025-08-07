@@ -6,4 +6,3 @@ class MediaStorage(S3Boto3Storage):
     file_overwrite = False
     
     
-# podemos especificar un modelo mas complejo para la subida de archivos a  la nube aqui

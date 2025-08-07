@@ -1,0 +1,1147 @@
+INFO 2025-08-05 20:48:11,464 autoreload Watching for file changes with StatReloader
+INFO 2025-08-05 20:49:12,442 autoreload C:\Users\matyt\Desktop\github_shin00x0\Realstate-project2\app\settings\production.py changed, reloading.
+DEBUG 2025-08-05 20:49:12,442 proactor_events Using proactor: IocpProactor
+INFO 2025-08-05 20:50:21,230 autoreload Watching for file changes with StatReloader
+INFO 2025-08-05 20:51:04,649 autoreload C:\Users\matyt\Desktop\github_shin00x0\Realstate-project2\manage.py changed, reloading.
+DEBUG 2025-08-05 20:51:04,649 proactor_events Using proactor: IocpProactor
+INFO 2025-08-05 20:51:06,033 autoreload Watching for file changes with StatReloader
+DEBUG 2025-08-05 20:54:11,118 connectionpool Starting new HTTPS connection (1): o4508789850505216.ingest.us.sentry.io:443
+DEBUG 2025-08-05 20:54:18,816 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 20:55:14,291 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 2
+INFO 2025-08-05 20:55:33,693 autoreload C:\Users\matyt\Desktop\github_shin00x0\Realstate-project2\blog\views.py changed, reloading.
+DEBUG 2025-08-05 20:55:33,693 proactor_events Using proactor: IocpProactor
+INFO 2025-08-05 20:55:34,910 autoreload Watching for file changes with StatReloader
+INFO 2025-08-05 20:55:46,903 autoreload C:\Users\matyt\Desktop\github_shin00x0\Realstate-project2\blog\views.py changed, reloading.
+DEBUG 2025-08-05 20:55:46,904 proactor_events Using proactor: IocpProactor
+INFO 2025-08-05 20:55:48,296 autoreload Watching for file changes with StatReloader
+DEBUG 2025-08-05 20:56:04,990 connectionpool Starting new HTTPS connection (1): o4508789850505216.ingest.us.sentry.io:443
+WARNING 2025-08-05 20:56:05,035 log Not Found: /static/css/ws.css
+WARNING 2025-08-05 20:56:05,039 log Not Found: /images/logo-blue-stiky.png
+WARNING 2025-08-05 20:56:05,046 log Not Found: /static/images/ws-white.png
+WARNING 2025-08-05 20:56:05,070 log Not Found: /static/js/home_forms.js
+WARNING 2025-08-05 20:56:05,116 log Not Found: /images/logo-blue.png
+WARNING 2025-08-05 20:56:05,269 log Not Found: /static/images/1920x1080.jpg
+DEBUG 2025-08-05 20:56:05,309 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 20:56:05,417 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+WARNING 2025-08-05 20:56:05,443 log Not Found: /static/images/1920x1080.jpg
+DEBUG 2025-08-05 20:56:05,519 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 20:56:05,624 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 20:56:05,746 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 20:56:05,857 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 20:56:05,964 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 20:56:06,108 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 20:56:06,237 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 20:56:06,340 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 20:56:06,443 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 20:56:06,552 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 20:56:06,658 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 20:56:06,772 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 20:56:07,117 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 20:57:05,108 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 2
+WARNING 2025-08-05 20:58:23,611 log Not Found: /static/css/ws.css
+WARNING 2025-08-05 20:58:23,612 log Not Found: /static/images/ws-white.png
+WARNING 2025-08-05 20:58:23,612 log Not Found: /images/logo-blue-stiky.png
+WARNING 2025-08-05 20:58:23,616 log Not Found: /static/js/home_forms.js
+WARNING 2025-08-05 20:58:23,635 log Not Found: /images/logo-blue.png
+DEBUG 2025-08-05 20:58:23,699 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+WARNING 2025-08-05 20:58:23,775 log Not Found: /static/images/1920x1080.jpg
+DEBUG 2025-08-05 20:58:23,833 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 20:58:23,966 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 20:58:24,088 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 20:58:24,217 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 20:58:24,328 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 20:58:24,448 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 20:58:24,585 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 20:58:24,690 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 20:58:24,826 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 20:58:24,976 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 20:58:25,122 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 20:58:25,294 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 20:58:25,422 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+WARNING 2025-08-05 20:58:29,511 log Not Found: /static/css/ws.css
+WARNING 2025-08-05 20:58:29,541 log Not Found: /.well-known/appspecific/com.chrome.devtools.json
+DEBUG 2025-08-05 20:58:29,792 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 20:58:29,896 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 20:58:30,015 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 20:58:30,129 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+WARNING 2025-08-05 20:58:44,530 log Not Found: /static/css/ws.css
+WARNING 2025-08-05 20:58:44,534 log Not Found: /images/logo-blue.png
+WARNING 2025-08-05 20:58:44,536 log Not Found: /static/js/home_forms.js
+WARNING 2025-08-05 20:58:44,536 log Not Found: /images/logo-blue-stiky.png
+WARNING 2025-08-05 20:58:44,542 log Not Found: /static/images/ws-white.png
+DEBUG 2025-08-05 20:58:44,608 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+WARNING 2025-08-05 20:58:44,703 log Not Found: /static/images/1920x1080.jpg
+DEBUG 2025-08-05 20:58:44,817 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 20:58:44,985 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 20:58:45,138 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 20:58:45,377 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 20:58:45,486 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 20:58:45,594 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+WARNING 2025-08-05 20:58:48,382 log Not Found: /static/css/ws.css
+WARNING 2025-08-05 20:58:48,385 log Not Found: /images/logo-blue-stiky.png
+WARNING 2025-08-05 20:58:48,396 log Not Found: /static/images/ws-white.png
+WARNING 2025-08-05 20:58:48,452 log Not Found: /static/js/home_forms.js
+DEBUG 2025-08-05 20:58:48,470 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+WARNING 2025-08-05 20:58:48,520 log Not Found: /images/logo-blue.png
+DEBUG 2025-08-05 20:58:48,616 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 20:58:48,728 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 20:58:48,833 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+WARNING 2025-08-05 20:58:48,890 log Not Found: /static/images/1920x1080.jpg
+DEBUG 2025-08-05 20:58:48,941 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 20:58:49,167 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 20:58:49,431 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 20:58:49,546 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 20:58:49,642 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 20:58:49,770 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 20:58:49,893 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 20:58:50,017 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 20:58:50,128 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+WARNING 2025-08-05 20:58:50,421 log Not Found: /favicon.ico
+DEBUG 2025-08-05 20:58:50,662 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+WARNING 2025-08-05 20:58:52,418 log Not Found: /static/css/ws.css
+WARNING 2025-08-05 20:58:52,420 log Not Found: /properties/santiago/images/logo-blue-stiky.png
+WARNING 2025-08-05 20:58:52,422 log Not Found: /static/images/ws-white.png
+WARNING 2025-08-05 20:58:52,424 log Not Found: /properties/santiago/images/logo-blue.png
+DEBUG 2025-08-05 20:58:52,516 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+WARNING 2025-08-05 20:58:52,581 log Not Found: /static/images/1920x1080.jpg
+DEBUG 2025-08-05 20:58:52,670 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 20:58:52,800 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 20:58:52,923 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 20:58:53,053 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 20:58:53,168 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 20:59:05,099 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 2
+INFO 2025-08-05 21:02:48,907 autoreload C:\Users\matyt\Desktop\github_shin00x0\Realstate-project2\blog\views.py changed, reloading.
+DEBUG 2025-08-05 21:02:48,908 proactor_events Using proactor: IocpProactor
+INFO 2025-08-05 21:02:49,926 autoreload Watching for file changes with StatReloader
+INFO 2025-08-05 21:02:59,849 autoreload C:\Users\matyt\Desktop\github_shin00x0\Realstate-project2\blog\views.py changed, reloading.
+DEBUG 2025-08-05 21:02:59,849 proactor_events Using proactor: IocpProactor
+INFO 2025-08-05 21:03:00,867 autoreload Watching for file changes with StatReloader
+INFO 2025-08-05 21:03:02,387 autoreload C:\Users\matyt\Desktop\github_shin00x0\Realstate-project2\blog\views.py changed, reloading.
+DEBUG 2025-08-05 21:03:02,387 proactor_events Using proactor: IocpProactor
+INFO 2025-08-05 21:03:03,748 autoreload Watching for file changes with StatReloader
+INFO 2025-08-05 21:03:05,257 autoreload C:\Users\matyt\Desktop\github_shin00x0\Realstate-project2\blog\views.py changed, reloading.
+DEBUG 2025-08-05 21:03:05,257 proactor_events Using proactor: IocpProactor
+INFO 2025-08-05 21:03:06,467 autoreload Watching for file changes with StatReloader
+DEBUG 2025-08-05 21:03:20,549 connectionpool Starting new HTTPS connection (1): o4508789850505216.ingest.us.sentry.io:443
+WARNING 2025-08-05 21:03:20,585 log Not Found: /static/css/ws.css
+WARNING 2025-08-05 21:03:20,588 log Not Found: /static/images/ws-white.png
+WARNING 2025-08-05 21:03:20,597 log Not Found: /images/logo-blue-stiky.png
+WARNING 2025-08-05 21:03:20,617 log Not Found: /static/js/home_forms.js
+WARNING 2025-08-05 21:03:20,642 log Not Found: /images/logo-blue.png
+WARNING 2025-08-05 21:03:20,751 log Not Found: /static/images/1920x1080.jpg
+DEBUG 2025-08-05 21:03:21,041 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:03:21,147 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:03:21,249 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:03:21,382 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:03:21,487 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:03:21,592 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:03:21,709 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:03:21,810 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:03:21,919 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:03:22,034 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:03:22,150 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:03:22,285 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:03:22,408 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:03:22,549 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+WARNING 2025-08-05 21:03:42,105 log Not Found: /images/logo-blue-stiky.png
+WARNING 2025-08-05 21:03:42,109 log Not Found: /static/css/ws.css
+WARNING 2025-08-05 21:03:42,110 log Not Found: /static/images/ws-white.png
+WARNING 2025-08-05 21:03:42,111 log Not Found: /images/logo-blue.png
+WARNING 2025-08-05 21:03:42,117 log Not Found: /static/js/home_forms.js
+DEBUG 2025-08-05 21:03:42,191 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+WARNING 2025-08-05 21:03:42,300 log Not Found: /static/images/1920x1080.jpg
+DEBUG 2025-08-05 21:03:42,396 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:03:42,650 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:03:42,817 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:03:42,933 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:03:43,048 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:03:43,170 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+WARNING 2025-08-05 21:03:54,458 log Not Found: /images/logo-blue.png
+WARNING 2025-08-05 21:03:54,459 log Not Found: /static/css/ws.css
+WARNING 2025-08-05 21:03:54,459 log Not Found: /static/js/home_forms.js
+WARNING 2025-08-05 21:03:54,461 log Not Found: /images/logo-blue-stiky.png
+WARNING 2025-08-05 21:03:54,461 log Not Found: /static/images/ws-white.png
+DEBUG 2025-08-05 21:03:54,587 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+WARNING 2025-08-05 21:03:54,645 log Not Found: /static/images/1920x1080.jpg
+DEBUG 2025-08-05 21:03:54,771 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:03:54,908 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:03:55,045 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:03:55,178 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:03:55,302 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:03:55,544 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+WARNING 2025-08-05 21:04:19,215 log Not Found: /blog-single.html
+DEBUG 2025-08-05 21:04:19,433 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:04:20,665 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 2
+WARNING 2025-08-05 21:04:23,198 log Not Found: /blog-single.html
+DEBUG 2025-08-05 21:04:23,443 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+WARNING 2025-08-05 21:04:26,898 log Not Found: /static/css/ws.css
+WARNING 2025-08-05 21:04:26,902 log Not Found: /static/images/ws-white.png
+WARNING 2025-08-05 21:04:26,904 log Not Found: /team/images/logo-blue-stiky.png
+WARNING 2025-08-05 21:04:26,906 log Not Found: /team/images/logo-blue.png
+WARNING 2025-08-05 21:04:27,005 log Not Found: /static/images/1920x1080.jpg
+DEBUG 2025-08-05 21:04:27,062 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:04:27,258 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:04:27,411 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:04:27,530 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:04:27,649 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:04:27,749 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:04:27,877 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:04:27,999 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:04:28,113 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+ERROR 2025-08-05 21:04:28,830 log Internal Server Error: /blog/
+Traceback (most recent call last):
+  File "C:\Users\matyt\Desktop\github_shin00x0\Realstate-project2\env\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\matyt\Desktop\github_shin00x0\Realstate-project2\env\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\Realstate-project2\env\lib\site-packages\sentry_sdk\integrations\django\views.py", line 94, in sentry_wrapped_callback
+    return callback(request, *args, **kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\Realstate-project2\blog\views.py", line 10, in BlogView
+    paginator = Paginator(productos, 10)
+NameError: name 'Paginator' is not defined
+DEBUG 2025-08-05 21:04:28,956 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:04:29,233 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+ERROR 2025-08-05 21:04:41,867 log Internal Server Error: /blog/
+Traceback (most recent call last):
+  File "C:\Users\matyt\Desktop\github_shin00x0\Realstate-project2\env\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\matyt\Desktop\github_shin00x0\Realstate-project2\env\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\Realstate-project2\env\lib\site-packages\sentry_sdk\integrations\django\views.py", line 94, in sentry_wrapped_callback
+    return callback(request, *args, **kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\Realstate-project2\blog\views.py", line 10, in BlogView
+    paginator = Paginator(productos, 10)
+NameError: name 'Paginator' is not defined
+DEBUG 2025-08-05 21:04:42,050 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:04:42,148 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+ERROR 2025-08-05 21:04:44,867 log Internal Server Error: /blog/
+Traceback (most recent call last):
+  File "C:\Users\matyt\Desktop\github_shin00x0\Realstate-project2\env\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\matyt\Desktop\github_shin00x0\Realstate-project2\env\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\Realstate-project2\env\lib\site-packages\sentry_sdk\integrations\django\views.py", line 94, in sentry_wrapped_callback
+    return callback(request, *args, **kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\Realstate-project2\blog\views.py", line 10, in BlogView
+    paginator = Paginator(productos, 10)
+NameError: name 'Paginator' is not defined
+DEBUG 2025-08-05 21:04:45,027 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:04:45,192 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+WARNING 2025-08-05 21:04:48,089 log Not Found: /static/css/ws.css
+WARNING 2025-08-05 21:04:48,092 log Not Found: /images/logo-blue-stiky.png
+WARNING 2025-08-05 21:04:48,096 log Not Found: /static/images/ws-white.png
+WARNING 2025-08-05 21:04:48,111 log Not Found: /images/logo-blue.png
+WARNING 2025-08-05 21:04:48,131 log Not Found: /static/js/home_forms.js
+DEBUG 2025-08-05 21:04:48,187 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+WARNING 2025-08-05 21:04:48,270 log Not Found: /static/images/1920x1080.jpg
+DEBUG 2025-08-05 21:04:48,303 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:04:48,443 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:04:48,584 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:04:48,709 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:04:48,812 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:04:48,933 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:04:49,074 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:04:49,201 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:04:49,332 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:04:49,829 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:04:49,973 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:04:51,058 proactor_events Using proactor: IocpProactor
+DEBUG 2025-08-05 21:04:51,157 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 2
+DEBUG 2025-08-05 21:04:51,229 proactor_events Using proactor: IocpProactor
+INFO 2025-08-05 21:04:53,199 autoreload Watching for file changes with StatReloader
+DEBUG 2025-08-05 21:04:54,891 proactor_events Using proactor: IocpProactor
+DEBUG 2025-08-05 21:04:54,967 proactor_events Using proactor: IocpProactor
+DEBUG 2025-08-05 21:04:59,077 proactor_events Using proactor: IocpProactor
+INFO 2025-08-05 21:05:04,440 autoreload Watching for file changes with StatReloader
+WARNING 2025-08-05 21:05:05,958 log Not Found: /images/logo-blue.png
+WARNING 2025-08-05 21:05:05,960 log Not Found: /images/logo-blue-stiky.png
+ERROR 2025-08-05 21:05:14,378 log Internal Server Error: /blog/
+Traceback (most recent call last):
+  File "C:\Users\matyt\Desktop\github_shin00x0\Realstate-project2\env\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\matyt\Desktop\github_shin00x0\Realstate-project2\env\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\Realstate-project2\blog\views.py", line 10, in BlogView
+    paginator = Paginator(productos, 10)
+NameError: name 'Paginator' is not defined
+INFO 2025-08-05 21:05:35,549 autoreload C:\Users\matyt\Desktop\github_shin00x0\Realstate-project2\blog\views.py changed, reloading.
+DEBUG 2025-08-05 21:05:35,556 proactor_events Using proactor: IocpProactor
+INFO 2025-08-05 21:05:36,523 autoreload Watching for file changes with StatReloader
+ERROR 2025-08-05 21:05:39,686 log Internal Server Error: /blog/
+Traceback (most recent call last):
+  File "C:\Users\matyt\Desktop\github_shin00x0\Realstate-project2\env\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\matyt\Desktop\github_shin00x0\Realstate-project2\env\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\Realstate-project2\blog\views.py", line 11, in BlogView
+    paginator = Paginator(productos, 10)
+NameError: name 'productos' is not defined
+ERROR 2025-08-05 21:05:40,616 log Internal Server Error: /blog/
+Traceback (most recent call last):
+  File "C:\Users\matyt\Desktop\github_shin00x0\Realstate-project2\env\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\matyt\Desktop\github_shin00x0\Realstate-project2\env\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\Realstate-project2\blog\views.py", line 11, in BlogView
+    paginator = Paginator(productos, 10)
+NameError: name 'productos' is not defined
+INFO 2025-08-05 21:06:09,367 autoreload C:\Users\matyt\Desktop\github_shin00x0\Realstate-project2\blog\views.py changed, reloading.
+DEBUG 2025-08-05 21:06:09,367 proactor_events Using proactor: IocpProactor
+INFO 2025-08-05 21:06:10,373 autoreload Watching for file changes with StatReloader
+WARNING 2025-08-05 21:06:10,646 log Not Found: /blog/images/logo-blue.png
+WARNING 2025-08-05 21:06:10,650 log Not Found: /blog/images/logo-blue-stiky.png
+WARNING 2025-08-05 21:06:29,867 log Not Found: /blog/images/logo-blue-stiky.png
+WARNING 2025-08-05 21:06:29,869 log Not Found: /blog/images/logo-blue.png
+WARNING 2025-08-05 21:06:30,865 log Not Found: /blog/images/logo-blue-stiky.png
+WARNING 2025-08-05 21:06:30,867 log Not Found: /blog/images/logo-blue.png
+WARNING 2025-08-05 21:06:31,526 log Not Found: /blog/images/logo-blue-stiky.png
+WARNING 2025-08-05 21:06:31,530 log Not Found: /blog/images/logo-blue.png
+WARNING 2025-08-05 21:06:33,291 log Not Found: /images/logo-blue-stiky.png
+WARNING 2025-08-05 21:06:33,306 log Not Found: /images/logo-blue.png
+DEBUG 2025-08-05 21:06:37,559 proactor_events Using proactor: IocpProactor
+DEBUG 2025-08-05 21:06:37,641 proactor_events Using proactor: IocpProactor
+INFO 2025-08-05 21:06:40,042 autoreload Watching for file changes with StatReloader
+DEBUG 2025-08-05 21:06:41,605 connectionpool Starting new HTTPS connection (1): o4508789850505216.ingest.us.sentry.io:443
+WARNING 2025-08-05 21:06:41,629 log Not Found: /images/logo-blue-stiky.png
+WARNING 2025-08-05 21:06:41,636 log Not Found: /images/logo-blue.png
+WARNING 2025-08-05 21:06:41,655 log Not Found: /static/images/1920x1080.jpg
+WARNING 2025-08-05 21:06:45,730 log Not Found: /blog/images/logo-blue-stiky.png
+WARNING 2025-08-05 21:06:45,732 log Not Found: /blog/images/logo-blue.png
+WARNING 2025-08-05 21:06:45,742 log Not Found: /static/images/1920x1080.jpg
+DEBUG 2025-08-05 21:06:49,595 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:06:50,153 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:06:50,366 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:06:50,562 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:06:50,762 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:06:50,958 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:06:51,168 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:06:51,384 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:07:41,821 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 2
+WARNING 2025-08-05 21:09:30,229 log Not Found: /blog/images/logo-blue.png
+WARNING 2025-08-05 21:09:30,230 log Not Found: /blog/images/logo-blue-stiky.png
+WARNING 2025-08-05 21:09:30,246 log Not Found: /static/images/1920x1080.jpg
+DEBUG 2025-08-05 21:09:30,398 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:09:30,600 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:09:30,807 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:09:31,020 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:09:31,218 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:09:31,416 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:09:31,723 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:09:44,137 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 2
+DEBUG 2025-08-05 21:10:18,516 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:10:18,765 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:10:19,077 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:10:19,282 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:10:19,546 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:10:19,767 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:10:19,991 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:10:20,216 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:10:20,426 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:10:21,116 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:10:25,534 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:10:25,761 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:10:25,961 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:10:26,181 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:10:26,403 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:10:26,625 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:10:26,838 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:10:27,042 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:10:27,266 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:10:27,458 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:10:27,683 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:10:27,883 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:10:28,086 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:10:28,656 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:10:28,858 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:10:29,059 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:10:29,258 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:10:41,875 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 2
+DEBUG 2025-08-05 21:12:02,217 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:12:02,453 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:12:02,684 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:12:02,886 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:12:03,115 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:12:03,399 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:12:03,598 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:12:03,805 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:12:04,081 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:12:04,297 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:12:04,560 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:12:04,775 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:12:04,977 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:12:05,181 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:12:05,376 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:12:05,581 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:12:05,806 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:12:06,038 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:12:06,260 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:12:06,475 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:12:06,707 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:12:10,053 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:12:10,258 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:12:10,799 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:12:11,009 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:12:11,241 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:12:11,456 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:12:11,703 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:12:11,935 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:12:18,899 Image Importing BlpImagePlugin
+DEBUG 2025-08-05 21:12:18,899 Image Importing BmpImagePlugin
+DEBUG 2025-08-05 21:12:18,899 Image Importing BufrStubImagePlugin
+DEBUG 2025-08-05 21:12:18,905 Image Importing CurImagePlugin
+DEBUG 2025-08-05 21:12:18,905 Image Importing DcxImagePlugin
+DEBUG 2025-08-05 21:12:18,908 Image Importing DdsImagePlugin
+DEBUG 2025-08-05 21:12:18,909 Image Importing EpsImagePlugin
+DEBUG 2025-08-05 21:12:18,935 Image Importing FitsImagePlugin
+DEBUG 2025-08-05 21:12:18,935 Image Importing FitsStubImagePlugin
+DEBUG 2025-08-05 21:12:18,940 Image Importing FliImagePlugin
+DEBUG 2025-08-05 21:12:18,942 Image Importing FpxImagePlugin
+DEBUG 2025-08-05 21:12:18,942 Image Image: failed to import FpxImagePlugin: No module named 'olefile'
+DEBUG 2025-08-05 21:12:18,942 Image Importing FtexImagePlugin
+DEBUG 2025-08-05 21:12:18,945 Image Importing GbrImagePlugin
+DEBUG 2025-08-05 21:12:18,945 Image Importing GifImagePlugin
+DEBUG 2025-08-05 21:12:18,945 Image Importing GribStubImagePlugin
+DEBUG 2025-08-05 21:12:18,948 Image Importing Hdf5StubImagePlugin
+DEBUG 2025-08-05 21:12:18,949 Image Importing IcnsImagePlugin
+DEBUG 2025-08-05 21:12:18,952 Image Importing IcoImagePlugin
+DEBUG 2025-08-05 21:12:18,953 Image Importing ImImagePlugin
+DEBUG 2025-08-05 21:12:18,955 Image Importing ImtImagePlugin
+DEBUG 2025-08-05 21:12:18,956 Image Importing IptcImagePlugin
+DEBUG 2025-08-05 21:12:18,958 Image Importing JpegImagePlugin
+DEBUG 2025-08-05 21:12:18,958 Image Importing Jpeg2KImagePlugin
+DEBUG 2025-08-05 21:12:18,958 Image Importing McIdasImagePlugin
+DEBUG 2025-08-05 21:12:18,960 Image Importing MicImagePlugin
+DEBUG 2025-08-05 21:12:18,962 Image Image: failed to import MicImagePlugin: No module named 'olefile'
+DEBUG 2025-08-05 21:12:18,962 Image Importing MpegImagePlugin
+DEBUG 2025-08-05 21:12:18,962 Image Importing MpoImagePlugin
+DEBUG 2025-08-05 21:12:18,995 Image Importing MspImagePlugin
+DEBUG 2025-08-05 21:12:18,997 Image Importing PalmImagePlugin
+DEBUG 2025-08-05 21:12:18,998 Image Importing PcdImagePlugin
+DEBUG 2025-08-05 21:12:18,999 Image Importing PcxImagePlugin
+DEBUG 2025-08-05 21:12:18,999 Image Importing PdfImagePlugin
+DEBUG 2025-08-05 21:12:19,006 Image Importing PixarImagePlugin
+DEBUG 2025-08-05 21:12:19,007 Image Importing PngImagePlugin
+DEBUG 2025-08-05 21:12:19,007 Image Importing PpmImagePlugin
+DEBUG 2025-08-05 21:12:19,007 Image Importing PsdImagePlugin
+DEBUG 2025-08-05 21:12:19,007 Image Importing QoiImagePlugin
+DEBUG 2025-08-05 21:12:19,007 Image Importing SgiImagePlugin
+DEBUG 2025-08-05 21:12:19,007 Image Importing SpiderImagePlugin
+DEBUG 2025-08-05 21:12:19,007 Image Importing SunImagePlugin
+DEBUG 2025-08-05 21:12:19,016 Image Importing TgaImagePlugin
+DEBUG 2025-08-05 21:12:19,017 Image Importing TiffImagePlugin
+DEBUG 2025-08-05 21:12:19,017 Image Importing WebPImagePlugin
+DEBUG 2025-08-05 21:12:19,052 Image Importing WmfImagePlugin
+DEBUG 2025-08-05 21:12:19,053 Image Importing XbmImagePlugin
+DEBUG 2025-08-05 21:12:19,056 Image Importing XpmImagePlugin
+DEBUG 2025-08-05 21:12:19,057 Image Importing XVThumbImagePlugin
+DEBUG 2025-08-05 21:12:19,060 hooks Changing event name from creating-client-class.iot-data to creating-client-class.iot-data-plane
+DEBUG 2025-08-05 21:12:19,061 hooks Changing event name from before-call.apigateway to before-call.api-gateway
+DEBUG 2025-08-05 21:12:19,062 hooks Changing event name from request-created.machinelearning.Predict to request-created.machine-learning.Predict
+DEBUG 2025-08-05 21:12:19,063 hooks Changing event name from before-parameter-build.autoscaling.CreateLaunchConfiguration to before-parameter-build.auto-scaling.CreateLaunchConfiguration
+DEBUG 2025-08-05 21:12:19,065 hooks Changing event name from before-parameter-build.route53 to before-parameter-build.route-53
+DEBUG 2025-08-05 21:12:19,065 hooks Changing event name from request-created.cloudsearchdomain.Search to request-created.cloudsearch-domain.Search
+DEBUG 2025-08-05 21:12:19,066 hooks Changing event name from docs.*.autoscaling.CreateLaunchConfiguration.complete-section to docs.*.auto-scaling.CreateLaunchConfiguration.complete-section
+DEBUG 2025-08-05 21:12:19,066 hooks Changing event name from before-parameter-build.logs.CreateExportTask to before-parameter-build.cloudwatch-logs.CreateExportTask
+DEBUG 2025-08-05 21:12:19,066 hooks Changing event name from docs.*.logs.CreateExportTask.complete-section to docs.*.cloudwatch-logs.CreateExportTask.complete-section
+DEBUG 2025-08-05 21:12:19,066 hooks Changing event name from before-parameter-build.cloudsearchdomain.Search to before-parameter-build.cloudsearch-domain.Search
+DEBUG 2025-08-05 21:12:19,066 hooks Changing event name from docs.*.cloudsearchdomain.Search.complete-section to docs.*.cloudsearch-domain.Search.complete-section
+DEBUG 2025-08-05 21:12:19,141 loaders Loading JSON file: C:\Users\matyt\Desktop\github_shin00x0\Realstate-project2\env\lib\site-packages\boto3\data\s3\2006-03-01\resources-1.json
+DEBUG 2025-08-05 21:12:19,152 loaders Loading JSON file: C:\Users\matyt\Desktop\github_shin00x0\Realstate-project2\env\lib\site-packages\botocore\data\endpoints.json
+DEBUG 2025-08-05 21:12:19,165 loaders Loading JSON file: C:\Users\matyt\Desktop\github_shin00x0\Realstate-project2\env\lib\site-packages\botocore\data\sdk-default-configuration.json
+DEBUG 2025-08-05 21:12:19,182 hooks Event choose-service-name: calling handler <function handle_service_name_alias at 0x000001912C43C670>
+DEBUG 2025-08-05 21:12:19,258 loaders Loading JSON file: C:\Users\matyt\Desktop\github_shin00x0\Realstate-project2\env\lib\site-packages\botocore\data\s3\2006-03-01\service-2.json
+DEBUG 2025-08-05 21:12:19,387 loaders Loading JSON file: C:\Users\matyt\Desktop\github_shin00x0\Realstate-project2\env\lib\site-packages\botocore\data\s3\2006-03-01\endpoint-rule-set-1.json.gz
+DEBUG 2025-08-05 21:12:19,395 loaders Loading JSON file: C:\Users\matyt\Desktop\github_shin00x0\Realstate-project2\env\lib\site-packages\botocore\data\partitions.json
+DEBUG 2025-08-05 21:12:19,398 hooks Event creating-client-class.s3: calling handler <function add_generate_presigned_post at 0x000001912B6AD280>
+DEBUG 2025-08-05 21:12:19,399 hooks Event creating-client-class.s3: calling handler <function lazy_call.<locals>._handler at 0x000001912D082940>
+DEBUG 2025-08-05 21:12:19,399 hooks Event creating-client-class.s3: calling handler <function add_generate_presigned_url at 0x000001912B6AD040>
+DEBUG 2025-08-05 21:12:19,399 endpoint Setting s3 timeout as (60, 60)
+DEBUG 2025-08-05 21:12:19,417 loaders Loading JSON file: C:\Users\matyt\Desktop\github_shin00x0\Realstate-project2\env\lib\site-packages\botocore\data\_retry.json
+DEBUG 2025-08-05 21:12:19,418 client Registering retry handlers for service: s3
+DEBUG 2025-08-05 21:12:19,418 utils Registering S3 region redirector handler
+DEBUG 2025-08-05 21:12:19,419 factory Loading s3:s3
+DEBUG 2025-08-05 21:12:19,420 hooks Event before-parameter-build.s3.HeadObject: calling handler <function sse_md5 at 0x000001912C450DC0>
+DEBUG 2025-08-05 21:12:19,420 hooks Event before-parameter-build.s3.HeadObject: calling handler <function validate_bucket_name at 0x000001912C450D30>
+DEBUG 2025-08-05 21:12:19,420 hooks Event before-parameter-build.s3.HeadObject: calling handler <function remove_bucket_from_url_paths_from_model at 0x000001912C458B80>
+DEBUG 2025-08-05 21:12:19,421 hooks Event before-parameter-build.s3.HeadObject: calling handler <bound method S3RegionRedirectorv2.annotate_request_context of <botocore.utils.S3RegionRedirectorv2 object at 0x000001912EA768E0>>
+DEBUG 2025-08-05 21:12:19,421 hooks Event before-parameter-build.s3.HeadObject: calling handler <function generate_idempotent_uuid at 0x000001912C450B80>
+DEBUG 2025-08-05 21:12:19,421 hooks Event before-endpoint-resolution.s3: calling handler <function customize_endpoint_resolver_builtins at 0x000001912C458D30>
+DEBUG 2025-08-05 21:12:19,421 hooks Event before-endpoint-resolution.s3: calling handler <bound method S3RegionRedirectorv2.redirect_from_cache of <botocore.utils.S3RegionRedirectorv2 object at 0x000001912EA768E0>>
+DEBUG 2025-08-05 21:12:19,422 regions Calling endpoint provider with parameters: {'Bucket': 'buckets3realstateproject', 'Region': 'us-east-1', 'UseFIPS': False, 'UseDualStack': False, 'ForcePathStyle': False, 'Accelerate': False, 'UseGlobalEndpoint': True, 'DisableMultiRegionAccessPoints': False, 'UseArnRegion': True}
+DEBUG 2025-08-05 21:12:19,423 regions Endpoint provider result: https://buckets3realstateproject.s3.amazonaws.com
+DEBUG 2025-08-05 21:12:19,423 regions Selecting from endpoint provider's list of auth schemes: "sigv4". User selected auth scheme is: "None"
+DEBUG 2025-08-05 21:12:19,423 regions Selected auth type "v4" as "v4" with signing context params: {'region': 'us-east-1', 'signing_name': 's3', 'disableDoubleEncoding': True}
+DEBUG 2025-08-05 21:12:19,424 hooks Event before-call.s3.HeadObject: calling handler <function add_expect_header at 0x000001912C4570D0>
+DEBUG 2025-08-05 21:12:19,424 hooks Event before-call.s3.HeadObject: calling handler <function add_recursion_detection_header at 0x000001912C450820>
+DEBUG 2025-08-05 21:12:19,425 hooks Event before-call.s3.HeadObject: calling handler <function inject_api_version_header_if_needed at 0x000001912C458430>
+DEBUG 2025-08-05 21:12:19,425 endpoint Making request for OperationModel(name=HeadObject) with params: {'url_path': '/media_cdn/blogs/3973122873.jpg', 'query_string': {}, 'method': 'HEAD', 'headers': {'User-Agent': 'Boto3/1.26.136 Python/3.9.13 Windows/10 Botocore/1.29.136 Resource'}, 'body': b'', 'auth_path': '/buckets3realstateproject/media_cdn/blogs/3973122873.jpg', 'url': 'https://buckets3realstateproject.s3.amazonaws.com/media_cdn/blogs/3973122873.jpg', 'context': {'client_region': 'us-east-1', 'client_config': <botocore.config.Config object at 0x000001912EA0E520>, 'has_streaming_input': False, 'auth_type': 'v4', 's3_redirect': {'redirected': False, 'bucket': 'buckets3realstateproject', 'params': {'Bucket': 'buckets3realstateproject', 'Key': 'media_cdn/blogs/3973122873.jpg'}}, 'signing': {'region': 'us-east-1', 'signing_name': 's3', 'disableDoubleEncoding': True}}}
+DEBUG 2025-08-05 21:12:19,425 hooks Event request-created.s3.HeadObject: calling handler <bound method RequestSigner.handler of <botocore.signers.RequestSigner object at 0x000001912EA0E220>>
+DEBUG 2025-08-05 21:12:19,425 hooks Event choose-signer.s3.HeadObject: calling handler <bound method ClientCreator._default_s3_presign_to_sigv2 of <botocore.client.ClientCreator object at 0x000001912D0AFB20>>
+DEBUG 2025-08-05 21:12:19,425 hooks Event choose-signer.s3.HeadObject: calling handler <function set_operation_specific_signer at 0x000001912C450A60>
+DEBUG 2025-08-05 21:12:19,425 hooks Event before-sign.s3.HeadObject: calling handler <function remove_arn_from_signing_path at 0x000001912C458CA0>
+DEBUG 2025-08-05 21:12:19,425 auth Calculating signature using v4 auth.
+DEBUG 2025-08-05 21:12:19,425 auth CanonicalRequest:
+HEAD
+/media_cdn/blogs/3973122873.jpg
+
+host:buckets3realstateproject.s3.amazonaws.com
+x-amz-content-sha256:e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+x-amz-date:20250806T011219Z
+
+host;x-amz-content-sha256;x-amz-date
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+DEBUG 2025-08-05 21:12:19,425 auth StringToSign:
+AWS4-HMAC-SHA256
+20250806T011219Z
+20250806/us-east-1/s3/aws4_request
+7dc81605560908bea1e6b44c80d7b3b983fd6e68384eb7518e4a1d7be0ce2e4c
+DEBUG 2025-08-05 21:12:19,425 auth Signature:
+da71aad89846520ee72f411fd64b253b4b1f6fa67493a5cedddd91facdd895fb
+DEBUG 2025-08-05 21:12:19,425 hooks Event request-created.s3.HeadObject: calling handler <function add_retry_headers at 0x000001912C458AF0>
+DEBUG 2025-08-05 21:12:19,425 hooks Event request-created.s3.HeadObject: calling handler functools.partial(<function _sentry_request_created at 0x000001912B6FD0D0>, service_id='s3')
+DEBUG 2025-08-05 21:12:19,425 endpoint Sending http request: <AWSPreparedRequest stream_output=False, method=HEAD, url=https://buckets3realstateproject.s3.amazonaws.com/media_cdn/blogs/3973122873.jpg, headers={'User-Agent': b'Boto3/1.26.136 Python/3.9.13 Windows/10 Botocore/1.29.136 Resource', 'X-Amz-Date': b'20250806T011219Z', 'X-Amz-Content-SHA256': b'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855', 'Authorization': b'AWS4-HMAC-SHA256 Credential=AKIAXZD67YO6HXG2SG6T/20250806/us-east-1/s3/aws4_request, SignedHeaders=host;x-amz-content-sha256;x-amz-date, Signature=da71aad89846520ee72f411fd64b253b4b1f6fa67493a5cedddd91facdd895fb', 'amz-sdk-invocation-id': b'600e67de-e9fc-4af9-b5b1-0510e9041987', 'amz-sdk-request': b'attempt=1'}>
+DEBUG 2025-08-05 21:12:19,425 httpsession Certificate path: C:\Users\matyt\Desktop\github_shin00x0\Realstate-project2\env\lib\site-packages\certifi\cacert.pem
+DEBUG 2025-08-05 21:12:19,425 connectionpool Starting new HTTPS connection (1): buckets3realstateproject.s3.amazonaws.com:443
+DEBUG 2025-08-05 21:12:20,277 connectionpool https://buckets3realstateproject.s3.amazonaws.com:443 "HEAD /media_cdn/blogs/3973122873.jpg HTTP/1.1" 403 0
+DEBUG 2025-08-05 21:12:20,277 parsers Response headers: {'x-amz-request-id': 'YD8NY7311A81TXFQ', 'x-amz-id-2': 'B1ClPUZaxyrA4BvlNr0/zd4HAwFsfwflgZ9h6Jvw86oTGJOUVMg7myyoHKa25l/3yQzNk6MGJig=', 'Content-Type': 'application/xml', 'Transfer-Encoding': 'chunked', 'Date': 'Wed, 06 Aug 2025 01:12:18 GMT', 'Server': 'AmazonS3'}
+DEBUG 2025-08-05 21:12:20,278 parsers Response body:
+b''
+DEBUG 2025-08-05 21:12:20,281 hooks Event needs-retry.s3.HeadObject: calling handler <botocore.retryhandler.RetryHandler object at 0x000001912EA76820>
+DEBUG 2025-08-05 21:12:20,281 retryhandler No retry needed.
+DEBUG 2025-08-05 21:12:20,282 hooks Event needs-retry.s3.HeadObject: calling handler <bound method S3RegionRedirectorv2.redirect_from_error of <botocore.utils.S3RegionRedirectorv2 object at 0x000001912EA768E0>>
+DEBUG 2025-08-05 21:12:20,282 hooks Event after-call.s3.HeadObject: calling handler <function _sentry_after_call at 0x000001912AE34940>
+ERROR 2025-08-05 21:12:20,457 log Internal Server Error: /admin/blog/blog/add/
+Traceback (most recent call last):
+  File "C:\Users\matyt\Desktop\github_shin00x0\Realstate-project2\env\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\matyt\Desktop\github_shin00x0\Realstate-project2\env\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\Realstate-project2\env\lib\site-packages\sentry_sdk\integrations\django\views.py", line 94, in sentry_wrapped_callback
+    return callback(request, *args, **kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\Realstate-project2\env\lib\site-packages\django\contrib\admin\options.py", line 616, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\Realstate-project2\env\lib\site-packages\django\utils\decorators.py", line 130, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\Realstate-project2\env\lib\site-packages\django\views\decorators\cache.py", line 44, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\Realstate-project2\env\lib\site-packages\django\contrib\admin\sites.py", line 232, in inner
+    return view(request, *args, **kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\Realstate-project2\env\lib\site-packages\django\contrib\admin\options.py", line 1655, in add_view
+    return self.changeform_view(request, None, form_url, extra_context)
+  File "C:\Users\matyt\Desktop\github_shin00x0\Realstate-project2\env\lib\site-packages\django\utils\decorators.py", line 43, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\Realstate-project2\env\lib\site-packages\django\utils\decorators.py", line 130, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\Realstate-project2\env\lib\site-packages\django\contrib\admin\options.py", line 1538, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+  File "C:\Users\matyt\Desktop\github_shin00x0\Realstate-project2\env\lib\site-packages\django\contrib\admin\options.py", line 1584, in _changeform_view
+    self.save_model(request, new_object, form, not add)
+  File "C:\Users\matyt\Desktop\github_shin00x0\Realstate-project2\env\lib\site-packages\django\contrib\admin\options.py", line 1097, in save_model
+    obj.save()
+  File "C:\Users\matyt\Desktop\github_shin00x0\Realstate-project2\env\lib\site-packages\django\db\models\base.py", line 726, in save
+    self.save_base(using=using, force_insert=force_insert,
+  File "C:\Users\matyt\Desktop\github_shin00x0\Realstate-project2\env\lib\site-packages\django\db\models\base.py", line 763, in save_base
+    updated = self._save_table(
+  File "C:\Users\matyt\Desktop\github_shin00x0\Realstate-project2\env\lib\site-packages\django\db\models\base.py", line 868, in _save_table
+    results = self._do_insert(cls._base_manager, using, fields, returning_fields, raw)
+  File "C:\Users\matyt\Desktop\github_shin00x0\Realstate-project2\env\lib\site-packages\django\db\models\base.py", line 906, in _do_insert
+    return manager._insert(
+  File "C:\Users\matyt\Desktop\github_shin00x0\Realstate-project2\env\lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\Realstate-project2\env\lib\site-packages\django\db\models\query.py", line 1270, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "C:\Users\matyt\Desktop\github_shin00x0\Realstate-project2\env\lib\site-packages\django\db\models\sql\compiler.py", line 1409, in execute_sql
+    for sql, params in self.as_sql():
+  File "C:\Users\matyt\Desktop\github_shin00x0\Realstate-project2\env\lib\site-packages\django\db\models\sql\compiler.py", line 1352, in as_sql
+    value_rows = [
+  File "C:\Users\matyt\Desktop\github_shin00x0\Realstate-project2\env\lib\site-packages\django\db\models\sql\compiler.py", line 1353, in <listcomp>
+    [self.prepare_value(field, self.pre_save_val(field, obj)) for field in fields]
+  File "C:\Users\matyt\Desktop\github_shin00x0\Realstate-project2\env\lib\site-packages\django\db\models\sql\compiler.py", line 1353, in <listcomp>
+    [self.prepare_value(field, self.pre_save_val(field, obj)) for field in fields]
+  File "C:\Users\matyt\Desktop\github_shin00x0\Realstate-project2\env\lib\site-packages\django\db\models\sql\compiler.py", line 1304, in pre_save_val
+    return field.pre_save(obj, add=True)
+  File "C:\Users\matyt\Desktop\github_shin00x0\Realstate-project2\env\lib\site-packages\django\db\models\fields\files.py", line 301, in pre_save
+    file.save(file.name, file.file, save=False)
+  File "C:\Users\matyt\Desktop\github_shin00x0\Realstate-project2\env\lib\site-packages\django\db\models\fields\files.py", line 88, in save
+    self.name = self.storage.save(name, content, max_length=self.field.max_length)
+  File "C:\Users\matyt\Desktop\github_shin00x0\Realstate-project2\env\lib\site-packages\django\core\files\storage.py", line 51, in save
+    name = self.get_available_name(name, max_length=max_length)
+  File "C:\Users\matyt\Desktop\github_shin00x0\Realstate-project2\env\lib\site-packages\storages\backends\s3boto3.py", line 599, in get_available_name
+    return super().get_available_name(name, max_length)
+  File "C:\Users\matyt\Desktop\github_shin00x0\Realstate-project2\env\lib\site-packages\django\core\files\storage.py", line 82, in get_available_name
+    while self.exists(name) or (max_length and len(name) > max_length):
+  File "C:\Users\matyt\Desktop\github_shin00x0\Realstate-project2\env\lib\site-packages\storages\backends\s3boto3.py", line 463, in exists
+    self.connection.meta.client.head_object(Bucket=self.bucket_name, Key=name)
+  File "C:\Users\matyt\Desktop\github_shin00x0\Realstate-project2\env\lib\site-packages\botocore\client.py", line 530, in _api_call
+    return self._make_api_call(operation_name, kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\Realstate-project2\env\lib\site-packages\botocore\client.py", line 964, in _make_api_call
+    raise error_class(parsed_response, operation_name)
+botocore.exceptions.ClientError: An error occurred (403) when calling the HeadObject operation: Forbidden
+DEBUG 2025-08-05 21:12:20,675 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:12:21,277 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:12:31,716 proactor_events Using proactor: IocpProactor
+DEBUG 2025-08-05 21:12:31,949 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 2
+DEBUG 2025-08-05 21:12:32,049 proactor_events Using proactor: IocpProactor
+DEBUG 2025-08-05 21:13:07,209 proactor_events Using proactor: IocpProactor
+INFO 2025-08-05 21:13:26,175 autoreload Watching for file changes with StatReloader
+DEBUG 2025-08-05 21:13:37,713 Image Importing BlpImagePlugin
+DEBUG 2025-08-05 21:13:37,716 Image Importing BmpImagePlugin
+DEBUG 2025-08-05 21:13:37,716 Image Importing BufrStubImagePlugin
+DEBUG 2025-08-05 21:13:37,717 Image Importing CurImagePlugin
+DEBUG 2025-08-05 21:13:37,718 Image Importing DcxImagePlugin
+DEBUG 2025-08-05 21:13:37,721 Image Importing DdsImagePlugin
+DEBUG 2025-08-05 21:13:37,722 Image Importing EpsImagePlugin
+DEBUG 2025-08-05 21:13:37,765 Image Importing FitsImagePlugin
+DEBUG 2025-08-05 21:13:37,768 Image Importing FitsStubImagePlugin
+DEBUG 2025-08-05 21:13:37,769 Image Importing FliImagePlugin
+DEBUG 2025-08-05 21:13:37,769 Image Importing FpxImagePlugin
+DEBUG 2025-08-05 21:13:37,775 Image Image: failed to import FpxImagePlugin: No module named 'olefile'
+DEBUG 2025-08-05 21:13:37,776 Image Importing FtexImagePlugin
+DEBUG 2025-08-05 21:13:37,777 Image Importing GbrImagePlugin
+DEBUG 2025-08-05 21:13:37,778 Image Importing GifImagePlugin
+DEBUG 2025-08-05 21:13:37,779 Image Importing GribStubImagePlugin
+DEBUG 2025-08-05 21:13:37,779 Image Importing Hdf5StubImagePlugin
+DEBUG 2025-08-05 21:13:37,780 Image Importing IcnsImagePlugin
+DEBUG 2025-08-05 21:13:37,785 Image Importing IcoImagePlugin
+DEBUG 2025-08-05 21:13:37,786 Image Importing ImImagePlugin
+DEBUG 2025-08-05 21:13:37,787 Image Importing ImtImagePlugin
+DEBUG 2025-08-05 21:13:37,789 Image Importing IptcImagePlugin
+DEBUG 2025-08-05 21:13:37,790 Image Importing JpegImagePlugin
+DEBUG 2025-08-05 21:13:37,790 Image Importing Jpeg2KImagePlugin
+DEBUG 2025-08-05 21:13:37,791 Image Importing McIdasImagePlugin
+DEBUG 2025-08-05 21:13:37,792 Image Importing MicImagePlugin
+DEBUG 2025-08-05 21:13:37,794 Image Image: failed to import MicImagePlugin: No module named 'olefile'
+DEBUG 2025-08-05 21:13:37,794 Image Importing MpegImagePlugin
+DEBUG 2025-08-05 21:13:37,795 Image Importing MpoImagePlugin
+DEBUG 2025-08-05 21:13:37,799 Image Importing MspImagePlugin
+DEBUG 2025-08-05 21:13:37,800 Image Importing PalmImagePlugin
+DEBUG 2025-08-05 21:13:37,800 Image Importing PcdImagePlugin
+DEBUG 2025-08-05 21:13:37,800 Image Importing PcxImagePlugin
+DEBUG 2025-08-05 21:13:37,800 Image Importing PdfImagePlugin
+DEBUG 2025-08-05 21:13:37,808 Image Importing PixarImagePlugin
+DEBUG 2025-08-05 21:13:37,808 Image Importing PngImagePlugin
+DEBUG 2025-08-05 21:13:37,808 Image Importing PpmImagePlugin
+DEBUG 2025-08-05 21:13:37,808 Image Importing PsdImagePlugin
+DEBUG 2025-08-05 21:13:37,815 Image Importing QoiImagePlugin
+DEBUG 2025-08-05 21:13:37,816 Image Importing SgiImagePlugin
+DEBUG 2025-08-05 21:13:37,817 Image Importing SpiderImagePlugin
+DEBUG 2025-08-05 21:13:37,818 Image Importing SunImagePlugin
+DEBUG 2025-08-05 21:13:37,819 Image Importing TgaImagePlugin
+DEBUG 2025-08-05 21:13:37,820 Image Importing TiffImagePlugin
+DEBUG 2025-08-05 21:13:37,820 Image Importing WebPImagePlugin
+DEBUG 2025-08-05 21:13:37,822 Image Importing WmfImagePlugin
+DEBUG 2025-08-05 21:13:37,823 Image Importing XbmImagePlugin
+DEBUG 2025-08-05 21:13:37,825 Image Importing XpmImagePlugin
+DEBUG 2025-08-05 21:13:37,825 Image Importing XVThumbImagePlugin
+INFO 2025-08-05 21:14:11,880 autoreload C:\Users\matyt\Desktop\github_shin00x0\Realstate-project2\blog\views.py changed, reloading.
+DEBUG 2025-08-05 21:14:11,881 proactor_events Using proactor: IocpProactor
+INFO 2025-08-05 21:14:12,725 autoreload Watching for file changes with StatReloader
+WARNING 2025-08-05 21:14:25,042 log Not Found: /blog/images/logo-blue-stiky.png
+WARNING 2025-08-05 21:14:25,061 log Not Found: /blog/images/logo-blue.png
+WARNING 2025-08-05 21:14:30,591 log Not Found: /blog/images/logo-blue-stiky.png
+WARNING 2025-08-05 21:14:30,594 log Not Found: /blog/images/logo-blue.png
+WARNING 2025-08-05 21:14:41,081 log Not Found: /blog/images/logo-blue-stiky.png
+WARNING 2025-08-05 21:14:41,095 log Not Found: /blog/images/logo-blue.png
+WARNING 2025-08-05 21:14:56,487 log Not Found: /blog/images/logo-blue-stiky.png
+WARNING 2025-08-05 21:14:56,496 log Not Found: /blog/images/logo-blue.png
+WARNING 2025-08-05 21:15:36,531 log Not Found: /blog/images/logo-blue-stiky.png
+WARNING 2025-08-05 21:15:36,534 log Not Found: /blog/images/logo-blue.png
+WARNING 2025-08-05 21:15:37,796 log Not Found: /blog/images/logo-blue-stiky.png
+WARNING 2025-08-05 21:15:37,798 log Not Found: /blog/images/logo-blue.png
+WARNING 2025-08-05 21:15:43,582 log Not Found: /blog/images/logo-blue-stiky.png
+WARNING 2025-08-05 21:15:43,585 log Not Found: /blog/images/logo-blue.png
+WARNING 2025-08-05 21:15:48,961 log Not Found: /blog/images/logo-blue-stiky.png
+WARNING 2025-08-05 21:15:48,968 log Not Found: /blog/images/logo-blue.png
+WARNING 2025-08-05 21:15:52,097 log Not Found: /blog/images/logo-blue-stiky.png
+WARNING 2025-08-05 21:15:52,101 log Not Found: /blog/images/logo-blue.png
+WARNING 2025-08-05 21:16:11,094 log Not Found: /blog/images/logo-blue.png
+WARNING 2025-08-05 21:16:11,096 log Not Found: /blog/images/logo-blue-stiky.png
+WARNING 2025-08-05 21:16:15,381 log Not Found: /blog/images/logo-blue-stiky.png
+WARNING 2025-08-05 21:16:15,388 log Not Found: /blog/images/logo-blue.png
+WARNING 2025-08-05 21:18:22,026 log Not Found: /blog/images/logo-blue-stiky.png
+WARNING 2025-08-05 21:18:22,032 log Not Found: /blog/images/logo-blue.png
+WARNING 2025-08-05 21:18:26,199 log Not Found: /blog/images/logo-blue.png
+WARNING 2025-08-05 21:18:26,200 log Not Found: /blog/images/logo-blue-stiky.png
+WARNING 2025-08-05 21:19:06,032 log Not Found: /blog/images/logo-blue-stiky.png
+WARNING 2025-08-05 21:19:06,036 log Not Found: /blog/images/logo-blue.png
+WARNING 2025-08-05 21:19:22,520 log Not Found: /blog/images/logo-blue-stiky.png
+WARNING 2025-08-05 21:19:22,522 log Not Found: /blog/images/logo-blue.png
+WARNING 2025-08-05 21:19:24,779 log Not Found: /blog/images/logo-blue-stiky.png
+WARNING 2025-08-05 21:19:24,785 log Not Found: /blog/images/logo-blue.png
+WARNING 2025-08-05 21:19:27,622 log Not Found: /blog/images/logo-blue-stiky.png
+WARNING 2025-08-05 21:19:27,626 log Not Found: /blog/images/logo-blue.png
+WARNING 2025-08-05 21:19:35,388 log Not Found: /blog/images/logo-blue.png
+WARNING 2025-08-05 21:19:35,392 log Not Found: /blog/images/logo-blue-stiky.png
+WARNING 2025-08-05 21:19:43,239 log Not Found: /blog/images/logo-blue-stiky.png
+WARNING 2025-08-05 21:19:43,242 log Not Found: /blog/images/logo-blue.png
+WARNING 2025-08-05 21:19:46,392 log Not Found: /blog/images/logo-blue-stiky.png
+WARNING 2025-08-05 21:19:46,394 log Not Found: /blog/images/logo-blue.png
+WARNING 2025-08-05 21:19:50,375 log Not Found: /blog/images/logo-blue-stiky.png
+WARNING 2025-08-05 21:19:50,378 log Not Found: /blog/images/logo-blue.png
+WARNING 2025-08-05 21:20:04,557 log Not Found: /blog/images/logo-blue-stiky.png
+WARNING 2025-08-05 21:20:04,561 log Not Found: /blog/images/logo-blue.png
+WARNING 2025-08-05 21:20:05,974 log Not Found: /blog/images/logo-blue-stiky.png
+WARNING 2025-08-05 21:20:05,976 log Not Found: /blog/images/logo-blue.png
+WARNING 2025-08-05 21:20:07,492 log Not Found: /blog/images/logo-blue-stiky.png
+WARNING 2025-08-05 21:20:07,494 log Not Found: /blog/images/logo-blue.png
+WARNING 2025-08-05 21:20:29,143 log Not Found: /blog/images/logo-blue-stiky.png
+WARNING 2025-08-05 21:20:29,146 log Not Found: /blog/images/logo-blue.png
+WARNING 2025-08-05 21:20:31,098 log Not Found: /blog/images/logo-blue.png
+WARNING 2025-08-05 21:20:31,100 log Not Found: /blog/images/logo-blue-stiky.png
+WARNING 2025-08-05 21:20:45,359 log Not Found: /blog/images/logo-blue-stiky.png
+WARNING 2025-08-05 21:20:45,360 log Not Found: /blog/images/logo-blue.png
+WARNING 2025-08-05 21:21:50,373 log Not Found: /blog/images/logo-blue-stiky.png
+WARNING 2025-08-05 21:21:50,377 log Not Found: /blog/images/logo-blue.png
+WARNING 2025-08-05 21:22:02,630 log Not Found: /blog/images/logo-blue-stiky.png
+WARNING 2025-08-05 21:22:02,632 log Not Found: /blog/images/logo-blue.png
+WARNING 2025-08-05 21:22:07,277 log Not Found: /blog/images/logo-blue-stiky.png
+WARNING 2025-08-05 21:22:07,278 log Not Found: /blog/images/logo-blue.png
+WARNING 2025-08-05 21:22:17,629 log Not Found: /blog/images/logo-blue-stiky.png
+WARNING 2025-08-05 21:22:17,635 log Not Found: /blog/images/logo-blue.png
+WARNING 2025-08-05 21:22:18,360 log Not Found: /blog/images/logo-blue-stiky.png
+WARNING 2025-08-05 21:22:18,361 log Not Found: /blog/images/logo-blue.png
+WARNING 2025-08-05 21:22:18,879 log Not Found: /blog/images/logo-blue-stiky.png
+WARNING 2025-08-05 21:22:18,881 log Not Found: /blog/images/logo-blue.png
+WARNING 2025-08-05 21:22:23,635 log Not Found: /blog/images/logo-blue-stiky.png
+WARNING 2025-08-05 21:22:23,637 log Not Found: /blog/images/logo-blue.png
+WARNING 2025-08-05 21:22:39,426 log Not Found: /blog/images/logo-blue-stiky.png
+WARNING 2025-08-05 21:22:39,430 log Not Found: /blog/images/logo-blue.png
+WARNING 2025-08-05 21:22:40,083 log Not Found: /blog/images/logo-blue-stiky.png
+WARNING 2025-08-05 21:22:40,085 log Not Found: /blog/images/logo-blue.png
+WARNING 2025-08-05 21:22:40,250 log Not Found: /blog/images/logo-blue.png
+WARNING 2025-08-05 21:22:40,251 log Not Found: /blog/images/logo-blue-stiky.png
+WARNING 2025-08-05 21:22:40,820 log Not Found: /blog/images/logo-blue-stiky.png
+WARNING 2025-08-05 21:22:40,835 log Not Found: /blog/images/logo-blue.png
+DEBUG 2025-08-05 21:22:54,433 proactor_events Using proactor: IocpProactor
+DEBUG 2025-08-05 21:22:54,523 proactor_events Using proactor: IocpProactor
+INFO 2025-08-05 21:23:20,299 autoreload Watching for file changes with StatReloader
+WARNING 2025-08-05 21:23:32,816 log Not Found: /favicon.ico
+WARNING 2025-08-05 21:24:58,662 log Not Found: /blog/images/logo-blue-stiky.png
+WARNING 2025-08-05 21:24:58,664 log Not Found: /blog/images/logo-blue.png
+WARNING 2025-08-05 21:25:03,428 log Not Found: /blog/images/logo-blue-stiky.png
+WARNING 2025-08-05 21:25:03,432 log Not Found: /blog/images/logo-blue.png
+WARNING 2025-08-05 21:25:19,681 log Not Found: /blog/images/logo-blue.png
+WARNING 2025-08-05 21:25:19,685 log Not Found: /blog/images/logo-blue-stiky.png
+WARNING 2025-08-05 21:25:22,067 log Not Found: /blog/images/logo-blue-stiky.png
+WARNING 2025-08-05 21:25:22,069 log Not Found: /blog/images/logo-blue.png
+INFO 2025-08-05 21:25:33,141 autoreload C:\Users\matyt\Desktop\github_shin00x0\Realstate-project2\blog\views.py changed, reloading.
+DEBUG 2025-08-05 21:25:33,143 proactor_events Using proactor: IocpProactor
+INFO 2025-08-05 21:25:34,131 autoreload Watching for file changes with StatReloader
+WARNING 2025-08-05 21:25:34,724 log Not Found: /blog/images/logo-blue.png
+WARNING 2025-08-05 21:25:34,729 log Not Found: /blog/images/logo-blue-stiky.png
+WARNING 2025-08-05 21:25:49,803 log Not Found: /blog/images/logo-blue-stiky.png
+WARNING 2025-08-05 21:25:49,805 log Not Found: /blog/images/logo-blue.png
+WARNING 2025-08-05 21:27:11,290 log Not Found: /blog/images/logo-blue-stiky.png
+WARNING 2025-08-05 21:27:11,293 log Not Found: /blog/images/logo-blue.png
+INFO 2025-08-05 21:27:43,012 autoreload C:\Users\matyt\Desktop\github_shin00x0\Realstate-project2\templates\base.html changed, reloading.
+DEBUG 2025-08-05 21:27:43,012 proactor_events Using proactor: IocpProactor
+INFO 2025-08-05 21:27:44,024 autoreload Watching for file changes with StatReloader
+WARNING 2025-08-05 21:27:44,791 log Not Found: /blog/images/logo-blue.png
+WARNING 2025-08-05 21:27:44,793 log Not Found: /blog/images/logo-blue-stiky.png
+WARNING 2025-08-05 21:27:53,156 log Not Found: /blog/images/logo-blue-stiky.png
+WARNING 2025-08-05 21:27:53,160 log Not Found: /blog/images/logo-blue.png
+WARNING 2025-08-05 21:28:11,261 log Not Found: /blog/images/logo-blue-stiky.png
+WARNING 2025-08-05 21:28:11,262 log Not Found: /blog/images/logo-blue.png
+WARNING 2025-08-05 21:28:17,438 log Not Found: /blog/images/logo-blue-stiky.png
+WARNING 2025-08-05 21:28:17,440 log Not Found: /blog/images/logo-blue.png
+WARNING 2025-08-05 21:28:28,430 log Not Found: /blog/images/logo-blue-stiky.png
+WARNING 2025-08-05 21:28:28,433 log Not Found: /blog/images/logo-blue.png
+WARNING 2025-08-05 21:28:31,262 log Not Found: /blog/images/logo-blue-stiky.png
+WARNING 2025-08-05 21:28:31,267 log Not Found: /blog/images/logo-blue.png
+WARNING 2025-08-05 21:28:46,114 log Not Found: /blog/images/logo-blue-stiky.png
+WARNING 2025-08-05 21:28:46,116 log Not Found: /blog/images/logo-blue.png
+WARNING 2025-08-05 21:28:52,006 log Not Found: /.well-known/appspecific/com.chrome.devtools.json
+WARNING 2025-08-05 21:29:08,112 log Not Found: /blog/images/logo-blue-stiky.png
+WARNING 2025-08-05 21:29:08,124 log Not Found: /blog/images/logo-blue.png
+WARNING 2025-08-05 21:29:08,128 log Not Found: /.well-known/appspecific/com.chrome.devtools.json
+WARNING 2025-08-05 21:29:11,331 log Not Found: /.well-known/appspecific/com.chrome.devtools.json
+WARNING 2025-08-05 21:29:11,358 log Not Found: /blog/images/logo-blue-stiky.png
+WARNING 2025-08-05 21:29:11,362 log Not Found: /blog/images/logo-blue.png
+WARNING 2025-08-05 21:29:23,309 log Not Found: /.well-known/appspecific/com.chrome.devtools.json
+WARNING 2025-08-05 21:29:23,313 log Not Found: /blog/images/logo-blue-stiky.png
+WARNING 2025-08-05 21:29:23,317 log Not Found: /blog/images/logo-blue.png
+WARNING 2025-08-05 21:29:42,170 log Not Found: /blog/images/logo-blue-stiky.png
+WARNING 2025-08-05 21:29:42,174 log Not Found: /blog/images/logo-blue.png
+WARNING 2025-08-05 21:29:44,566 log Not Found: /blog/images/logo-blue-stiky.png
+WARNING 2025-08-05 21:29:44,568 log Not Found: /blog/images/logo-blue.png
+WARNING 2025-08-05 21:29:46,200 log Not Found: /blog/images/logo-blue-stiky.png
+WARNING 2025-08-05 21:29:46,203 log Not Found: /blog/images/logo-blue.png
+WARNING 2025-08-05 21:29:55,904 log Not Found: /properties/images/logo-blue-stiky.png
+WARNING 2025-08-05 21:29:55,906 log Not Found: /properties/images/logo-blue.png
+INFO 2025-08-05 21:36:27,332 autoreload C:\Users\matyt\Desktop\github_shin00x0\Realstate-project2\real_state\views.py changed, reloading.
+DEBUG 2025-08-05 21:36:27,334 proactor_events Using proactor: IocpProactor
+INFO 2025-08-05 21:36:28,234 autoreload Watching for file changes with StatReloader
+INFO 2025-08-05 21:37:17,594 autoreload C:\Users\matyt\Desktop\github_shin00x0\Realstate-project2\real_state\views.py changed, reloading.
+DEBUG 2025-08-05 21:37:17,594 proactor_events Using proactor: IocpProactor
+INFO 2025-08-05 21:37:18,424 autoreload Watching for file changes with StatReloader
+INFO 2025-08-05 21:37:53,235 autoreload C:\Users\matyt\Desktop\github_shin00x0\Realstate-project2\real_state\views.py changed, reloading.
+DEBUG 2025-08-05 21:37:53,236 proactor_events Using proactor: IocpProactor
+INFO 2025-08-05 21:37:54,166 autoreload Watching for file changes with StatReloader
+WARNING 2025-08-05 21:37:54,618 log Not Found: /properties/images/logo-blue.png
+WARNING 2025-08-05 21:37:54,619 log Not Found: /properties/images/logo-blue-stiky.png
+ERROR 2025-08-05 21:37:55,416 log Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\matyt\Desktop\github_shin00x0\Realstate-project2\env\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\matyt\Desktop\github_shin00x0\Realstate-project2\env\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\Realstate-project2\real_state\views.py", line 46, in HomeView
+    page_obj = paginator.get_page(page_number)
+NameError: name 'paginator' is not defined
+INFO 2025-08-05 21:38:09,141 autoreload C:\Users\matyt\Desktop\github_shin00x0\Realstate-project2\real_state\views.py changed, reloading.
+DEBUG 2025-08-05 21:38:09,141 proactor_events Using proactor: IocpProactor
+DEBUG 2025-08-05 21:38:09,600 proactor_events Using proactor: IocpProactor
+INFO 2025-08-05 21:38:18,010 autoreload Watching for file changes with StatReloader
+ERROR 2025-08-05 21:38:21,341 log Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\matyt\Desktop\github_shin00x0\Realstate-project2\env\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\matyt\Desktop\github_shin00x0\Realstate-project2\env\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\Realstate-project2\real_state\views.py", line 46, in HomeView
+    page_obj = paginator.get_page(page_number)
+NameError: name 'paginator' is not defined
+INFO 2025-08-05 21:38:41,491 autoreload C:\Users\matyt\Desktop\github_shin00x0\Realstate-project2\real_state\views.py changed, reloading.
+DEBUG 2025-08-05 21:38:41,491 proactor_events Using proactor: IocpProactor
+INFO 2025-08-05 21:38:42,456 autoreload Watching for file changes with StatReloader
+INFO 2025-08-05 21:39:02,622 autoreload C:\Users\matyt\Desktop\github_shin00x0\Realstate-project2\real_state\views.py changed, reloading.
+DEBUG 2025-08-05 21:39:02,623 proactor_events Using proactor: IocpProactor
+INFO 2025-08-05 21:39:03,632 autoreload Watching for file changes with StatReloader
+ERROR 2025-08-05 21:39:04,933 log Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\matyt\Desktop\github_shin00x0\Realstate-project2\env\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\matyt\Desktop\github_shin00x0\Realstate-project2\env\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\Realstate-project2\real_state\views.py", line 48, in HomeView
+    'form': form,
+UnboundLocalError: local variable 'form' referenced before assignment
+INFO 2025-08-05 21:40:20,190 autoreload C:\Users\matyt\Desktop\github_shin00x0\Realstate-project2\real_state\views.py changed, reloading.
+DEBUG 2025-08-05 21:40:20,191 proactor_events Using proactor: IocpProactor
+INFO 2025-08-05 21:40:21,033 autoreload Watching for file changes with StatReloader
+INFO 2025-08-05 21:40:31,897 autoreload C:\Users\matyt\Desktop\github_shin00x0\Realstate-project2\real_state\views.py changed, reloading.
+DEBUG 2025-08-05 21:40:31,898 proactor_events Using proactor: IocpProactor
+INFO 2025-08-05 21:40:32,850 autoreload Watching for file changes with StatReloader
+WARNING 2025-08-05 21:40:35,674 log Not Found: /images/logo-blue.png
+WARNING 2025-08-05 21:40:35,680 log Not Found: /images/logo-blue-stiky.png
+INFO 2025-08-05 21:42:25,056 autoreload C:\Users\matyt\Desktop\github_shin00x0\Realstate-project2\real_state\views.py changed, reloading.
+DEBUG 2025-08-05 21:42:25,057 proactor_events Using proactor: IocpProactor
+INFO 2025-08-05 21:42:25,920 autoreload Watching for file changes with StatReloader
+INFO 2025-08-05 21:42:44,010 autoreload C:\Users\matyt\Desktop\github_shin00x0\Realstate-project2\real_state\views.py changed, reloading.
+DEBUG 2025-08-05 21:42:44,010 proactor_events Using proactor: IocpProactor
+INFO 2025-08-05 21:42:44,874 autoreload Watching for file changes with StatReloader
+INFO 2025-08-05 21:43:14,470 autoreload C:\Users\matyt\Desktop\github_shin00x0\Realstate-project2\real_state\views.py changed, reloading.
+DEBUG 2025-08-05 21:43:14,470 proactor_events Using proactor: IocpProactor
+INFO 2025-08-05 21:43:15,409 autoreload Watching for file changes with StatReloader
+DEBUG 2025-08-05 21:43:16,095 proactor_events Using proactor: IocpProactor
+DEBUG 2025-08-05 21:43:16,191 proactor_events Using proactor: IocpProactor
+INFO 2025-08-05 21:43:24,123 autoreload Watching for file changes with StatReloader
+WARNING 2025-08-05 21:43:30,560 log Not Found: /images/logo-blue.png
+WARNING 2025-08-05 21:43:30,561 log Not Found: /images/logo-blue-stiky.png
+DEBUG 2025-08-05 21:44:37,276 Image Importing BlpImagePlugin
+DEBUG 2025-08-05 21:44:37,277 Image Importing BmpImagePlugin
+DEBUG 2025-08-05 21:44:37,278 Image Importing BufrStubImagePlugin
+DEBUG 2025-08-05 21:44:37,279 Image Importing CurImagePlugin
+DEBUG 2025-08-05 21:44:37,279 Image Importing DcxImagePlugin
+DEBUG 2025-08-05 21:44:37,282 Image Importing DdsImagePlugin
+DEBUG 2025-08-05 21:44:37,283 Image Importing EpsImagePlugin
+DEBUG 2025-08-05 21:44:37,309 Image Importing FitsImagePlugin
+DEBUG 2025-08-05 21:44:37,315 Image Importing FitsStubImagePlugin
+DEBUG 2025-08-05 21:44:37,316 Image Importing FliImagePlugin
+DEBUG 2025-08-05 21:44:37,318 Image Importing FpxImagePlugin
+DEBUG 2025-08-05 21:44:37,319 Image Image: failed to import FpxImagePlugin: No module named 'olefile'
+DEBUG 2025-08-05 21:44:37,319 Image Importing FtexImagePlugin
+DEBUG 2025-08-05 21:44:37,320 Image Importing GbrImagePlugin
+DEBUG 2025-08-05 21:44:37,321 Image Importing GifImagePlugin
+DEBUG 2025-08-05 21:44:37,321 Image Importing GribStubImagePlugin
+DEBUG 2025-08-05 21:44:37,323 Image Importing Hdf5StubImagePlugin
+DEBUG 2025-08-05 21:44:37,325 Image Importing IcnsImagePlugin
+DEBUG 2025-08-05 21:44:37,325 Image Importing IcoImagePlugin
+DEBUG 2025-08-05 21:44:37,325 Image Importing ImImagePlugin
+DEBUG 2025-08-05 21:44:37,329 Image Importing ImtImagePlugin
+DEBUG 2025-08-05 21:44:37,329 Image Importing IptcImagePlugin
+DEBUG 2025-08-05 21:44:37,332 Image Importing JpegImagePlugin
+DEBUG 2025-08-05 21:44:37,332 Image Importing Jpeg2KImagePlugin
+DEBUG 2025-08-05 21:44:37,332 Image Importing McIdasImagePlugin
+DEBUG 2025-08-05 21:44:37,334 Image Importing MicImagePlugin
+DEBUG 2025-08-05 21:44:37,335 Image Image: failed to import MicImagePlugin: No module named 'olefile'
+DEBUG 2025-08-05 21:44:37,336 Image Importing MpegImagePlugin
+DEBUG 2025-08-05 21:44:37,337 Image Importing MpoImagePlugin
+DEBUG 2025-08-05 21:44:37,341 Image Importing MspImagePlugin
+DEBUG 2025-08-05 21:44:37,342 Image Importing PalmImagePlugin
+DEBUG 2025-08-05 21:44:37,344 Image Importing PcdImagePlugin
+DEBUG 2025-08-05 21:44:37,345 Image Importing PcxImagePlugin
+DEBUG 2025-08-05 21:44:37,345 Image Importing PdfImagePlugin
+DEBUG 2025-08-05 21:44:37,349 Image Importing PixarImagePlugin
+DEBUG 2025-08-05 21:44:37,349 Image Importing PngImagePlugin
+DEBUG 2025-08-05 21:44:37,349 Image Importing PpmImagePlugin
+DEBUG 2025-08-05 21:44:37,349 Image Importing PsdImagePlugin
+DEBUG 2025-08-05 21:44:37,349 Image Importing QoiImagePlugin
+DEBUG 2025-08-05 21:44:37,349 Image Importing SgiImagePlugin
+DEBUG 2025-08-05 21:44:37,356 Image Importing SpiderImagePlugin
+DEBUG 2025-08-05 21:44:37,357 Image Importing SunImagePlugin
+DEBUG 2025-08-05 21:44:37,359 Image Importing TgaImagePlugin
+DEBUG 2025-08-05 21:44:37,359 Image Importing TiffImagePlugin
+DEBUG 2025-08-05 21:44:37,359 Image Importing WebPImagePlugin
+DEBUG 2025-08-05 21:44:37,359 Image Importing WmfImagePlugin
+DEBUG 2025-08-05 21:44:37,359 Image Importing XbmImagePlugin
+DEBUG 2025-08-05 21:44:37,366 Image Importing XpmImagePlugin
+DEBUG 2025-08-05 21:44:37,366 Image Importing XVThumbImagePlugin
+WARNING 2025-08-05 21:44:59,693 log Not Found: /images/logo-blue-stiky.png
+WARNING 2025-08-05 21:44:59,710 log Not Found: /images/logo-blue.png
+WARNING 2025-08-05 21:45:25,390 log Not Found: /images/logo-blue.png
+WARNING 2025-08-05 21:45:31,684 log Not Found: /images/logo-blue.png
+WARNING 2025-08-05 21:45:37,020 log Not Found: /images/logo-blue.png
+WARNING 2025-08-05 21:45:49,437 log Not Found: /images/logo-blue-stiky.png
+WARNING 2025-08-05 21:45:49,449 log Not Found: /images/logo-blue.png
+INFO 2025-08-05 21:47:13,885 autoreload C:\Users\matyt\Desktop\github_shin00x0\Realstate-project2\templates\base.html changed, reloading.
+DEBUG 2025-08-05 21:47:13,886 proactor_events Using proactor: IocpProactor
+INFO 2025-08-05 21:47:14,791 autoreload Watching for file changes with StatReloader
+DEBUG 2025-08-05 21:47:15,208 proactor_events Using proactor: IocpProactor
+DEBUG 2025-08-05 21:47:15,294 proactor_events Using proactor: IocpProactor
+INFO 2025-08-05 21:47:17,756 autoreload Watching for file changes with StatReloader
+WARNING 2025-08-05 21:47:21,997 log Not Found: /images/logo-blue-stiky.png
+INFO 2025-08-05 21:47:49,609 autoreload C:\Users\matyt\Desktop\github_shin00x0\Realstate-project2\templates\base.html changed, reloading.
+DEBUG 2025-08-05 21:47:49,609 proactor_events Using proactor: IocpProactor
+INFO 2025-08-05 21:47:50,590 autoreload Watching for file changes with StatReloader
+WARNING 2025-08-05 21:47:53,406 log Not Found: /images/logo-blue-stiky.png
+DEBUG 2025-08-05 21:48:01,175 proactor_events Using proactor: IocpProactor
+DEBUG 2025-08-05 21:48:01,268 proactor_events Using proactor: IocpProactor
+INFO 2025-08-05 21:48:04,434 autoreload Watching for file changes with StatReloader
+WARNING 2025-08-05 21:48:05,551 log Not Found: /images/logo-blue-stiky.png
+WARNING 2025-08-05 21:49:18,740 log Not Found: /detail/images/80x80.jpg
+WARNING 2025-08-05 21:49:18,743 log Not Found: /detail/images/1920x1080.jpg
+WARNING 2025-08-05 21:49:18,745 log Not Found: /detail/wef
+WARNING 2025-08-05 21:49:18,751 log Not Found: /detail/erer
+INFO 2025-08-05 21:57:51,749 autoreload C:\Users\matyt\Desktop\github_shin00x0\Realstate-project2\templates\404.html changed, reloading.
+DEBUG 2025-08-05 21:57:51,753 proactor_events Using proactor: IocpProactor
+INFO 2025-08-05 21:57:52,858 autoreload Watching for file changes with StatReloader
+DEBUG 2025-08-05 21:58:07,174 proactor_events Using proactor: IocpProactor
+DEBUG 2025-08-05 21:58:07,249 proactor_events Using proactor: IocpProactor
+INFO 2025-08-05 21:58:15,676 autoreload Watching for file changes with StatReloader
+DEBUG 2025-08-05 21:58:16,864 connectionpool Starting new HTTPS connection (1): o4508789850505216.ingest.us.sentry.io:443
+WARNING 2025-08-05 21:58:16,919 log Not Found: /static/css/ws.css
+WARNING 2025-08-05 21:58:16,929 log Not Found: /static/css/common.css
+WARNING 2025-08-05 21:58:17,126 log Not Found: /static/images/1920x1080.jpg
+DEBUG 2025-08-05 21:58:17,193 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:58:17,327 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:58:17,443 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:58:17,569 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:58:17,682 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:58:17,800 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:58:17,919 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:58:18,049 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:58:18,158 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:58:18,261 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:58:18,383 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+WARNING 2025-08-05 21:58:24,637 log Not Found: /weflwefwef
+DEBUG 2025-08-05 21:58:24,858 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+INFO 2025-08-05 21:58:54,041 autoreload C:\Users\matyt\Desktop\github_shin00x0\Realstate-project2\templates\base.html changed, reloading.
+DEBUG 2025-08-05 21:58:54,041 proactor_events Using proactor: IocpProactor
+DEBUG 2025-08-05 21:58:54,208 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 2
+INFO 2025-08-05 21:58:55,428 autoreload Watching for file changes with StatReloader
+DEBUG 2025-08-05 21:58:57,275 connectionpool Starting new HTTPS connection (1): o4508789850505216.ingest.us.sentry.io:443
+WARNING 2025-08-05 21:58:57,310 log Not Found: /static/css/ws.css
+WARNING 2025-08-05 21:58:57,312 log Not Found: /static/css/common.css
+WARNING 2025-08-05 21:58:57,445 log Not Found: /static/images/1920x1080.jpg
+DEBUG 2025-08-05 21:58:57,556 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:58:57,680 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:58:57,811 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:58:57,916 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+INFO 2025-08-05 21:59:16,058 autoreload C:\Users\matyt\Desktop\github_shin00x0\Realstate-project2\templates\base.html changed, reloading.
+DEBUG 2025-08-05 21:59:16,059 proactor_events Using proactor: IocpProactor
+DEBUG 2025-08-05 21:59:16,184 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 2
+INFO 2025-08-05 21:59:17,512 autoreload Watching for file changes with StatReloader
+DEBUG 2025-08-05 21:59:18,024 connectionpool Starting new HTTPS connection (1): o4508789850505216.ingest.us.sentry.io:443
+WARNING 2025-08-05 21:59:18,073 log Not Found: /static/css/ws.css
+WARNING 2025-08-05 21:59:18,081 log Not Found: /static/css/common.css
+WARNING 2025-08-05 21:59:18,215 log Not Found: /static/images/1920x1080.jpg
+DEBUG 2025-08-05 21:59:18,314 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:59:18,416 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:59:18,530 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:59:18,635 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:59:18,735 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:59:18,840 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:59:18,945 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:59:19,074 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:59:19,233 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:59:19,342 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+INFO 2025-08-05 21:59:22,280 autoreload C:\Users\matyt\Desktop\github_shin00x0\Realstate-project2\templates\base.html changed, reloading.
+DEBUG 2025-08-05 21:59:22,280 proactor_events Using proactor: IocpProactor
+DEBUG 2025-08-05 21:59:22,386 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 2
+INFO 2025-08-05 21:59:23,658 autoreload Watching for file changes with StatReloader
+DEBUG 2025-08-05 21:59:27,695 connectionpool Starting new HTTPS connection (1): o4508789850505216.ingest.us.sentry.io:443
+WARNING 2025-08-05 21:59:27,731 log Not Found: /static/css/ws.css
+WARNING 2025-08-05 21:59:27,734 log Not Found: /static/css/common.css
+WARNING 2025-08-05 21:59:27,736 log Not Found: /static/images/ws-white.png
+WARNING 2025-08-05 21:59:27,930 log Not Found: /static/images/1920x1080.jpg
+DEBUG 2025-08-05 21:59:27,955 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:59:28,064 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:59:28,182 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:59:28,297 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:59:28,408 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+WARNING 2025-08-05 21:59:32,044 log Not Found: /static/css/ws.css
+WARNING 2025-08-05 21:59:32,048 log Not Found: /static/images/ws-white.png
+WARNING 2025-08-05 21:59:32,052 log Not Found: /static/css/common.css
+WARNING 2025-08-05 21:59:32,118 log Not Found: /static/js/home_forms.js
+DEBUG 2025-08-05 21:59:32,118 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:59:32,233 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:59:32,349 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:59:32,456 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:59:32,577 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+WARNING 2025-08-05 21:59:32,696 log Not Found: /static/images/1920x1080.jpg
+DEBUG 2025-08-05 21:59:32,697 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:59:32,816 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:59:32,928 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:59:33,043 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:59:33,156 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:59:33,302 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:59:33,415 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+WARNING 2025-08-05 21:59:33,632 log Not Found: /favicon.ico
+DEBUG 2025-08-05 21:59:33,838 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-05 21:59:41,740 proactor_events Using proactor: IocpProactor
+DEBUG 2025-08-05 21:59:41,849 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 2
+DEBUG 2025-08-05 21:59:41,888 proactor_events Using proactor: IocpProactor
+INFO 2025-08-05 22:00:02,840 autoreload Watching for file changes with StatReloader
+WARNING 2025-08-05 22:00:09,997 log Not Found: /wefjklwnefwef
+INFO 2025-08-05 22:05:09,999 autoreload C:\Users\matyt\Desktop\github_shin00x0\Realstate-project2\blog\views.py changed, reloading.
+DEBUG 2025-08-05 22:05:09,999 proactor_events Using proactor: IocpProactor
+INFO 2025-08-05 22:05:10,956 autoreload Watching for file changes with StatReloader
+INFO 2025-08-05 22:05:20,876 autoreload C:\Users\matyt\Desktop\github_shin00x0\Realstate-project2\blog\views.py changed, reloading.
+DEBUG 2025-08-05 22:05:20,876 proactor_events Using proactor: IocpProactor
+INFO 2025-08-05 22:05:21,842 autoreload Watching for file changes with StatReloader
+INFO 2025-08-05 22:05:24,406 autoreload C:\Users\matyt\Desktop\github_shin00x0\Realstate-project2\blog\views.py changed, reloading.
+DEBUG 2025-08-05 22:05:24,407 proactor_events Using proactor: IocpProactor
+INFO 2025-08-05 22:05:25,275 autoreload Watching for file changes with StatReloader
+INFO 2025-08-05 22:05:26,685 autoreload C:\Users\matyt\Desktop\github_shin00x0\Realstate-project2\blog\views.py changed, reloading.
+DEBUG 2025-08-05 22:05:26,685 proactor_events Using proactor: IocpProactor
+INFO 2025-08-05 22:05:27,538 autoreload Watching for file changes with StatReloader
+INFO 2025-08-05 22:17:47,686 autoreload C:\Users\matyt\Desktop\github_shin00x0\Realstate-project2\blog\views.py changed, reloading.
+DEBUG 2025-08-05 22:17:47,687 proactor_events Using proactor: IocpProactor
+INFO 2025-08-05 22:17:48,607 autoreload Watching for file changes with StatReloader
+INFO 2025-08-05 22:17:53,154 autoreload C:\Users\matyt\Desktop\github_shin00x0\Realstate-project2\blog\views.py changed, reloading.
+DEBUG 2025-08-05 22:17:53,155 proactor_events Using proactor: IocpProactor
+INFO 2025-08-05 22:17:54,219 autoreload Watching for file changes with StatReloader
+INFO 2025-08-05 22:18:21,603 autoreload C:\Users\matyt\Desktop\github_shin00x0\Realstate-project2\blog\urls.py changed, reloading.
+DEBUG 2025-08-05 22:18:21,603 proactor_events Using proactor: IocpProactor
+INFO 2025-08-05 22:18:22,503 autoreload Watching for file changes with StatReloader
+INFO 2025-08-05 22:18:28,093 autoreload C:\Users\matyt\Desktop\github_shin00x0\Realstate-project2\blog\urls.py changed, reloading.
+DEBUG 2025-08-05 22:18:28,098 proactor_events Using proactor: IocpProactor
+INFO 2025-08-05 22:18:28,965 autoreload Watching for file changes with StatReloader
+INFO 2025-08-05 22:18:31,374 autoreload C:\Users\matyt\Desktop\github_shin00x0\Realstate-project2\blog\urls.py changed, reloading.
+DEBUG 2025-08-05 22:18:31,374 proactor_events Using proactor: IocpProactor
+INFO 2025-08-05 22:18:32,362 autoreload Watching for file changes with StatReloader
+INFO 2025-08-05 22:19:44,385 autoreload C:\Users\matyt\Desktop\github_shin00x0\Realstate-project2\blog\views.py changed, reloading.
+DEBUG 2025-08-05 22:19:44,385 proactor_events Using proactor: IocpProactor
+INFO 2025-08-05 22:19:45,298 autoreload Watching for file changes with StatReloader
+INFO 2025-08-05 22:19:47,724 autoreload C:\Users\matyt\Desktop\github_shin00x0\Realstate-project2\blog\views.py changed, reloading.
+DEBUG 2025-08-05 22:19:47,724 proactor_events Using proactor: IocpProactor
+INFO 2025-08-05 22:19:48,612 autoreload Watching for file changes with StatReloader
+DEBUG 2025-08-05 22:19:52,607 proactor_events Using proactor: IocpProactor
+DEBUG 2025-08-05 22:19:52,682 proactor_events Using proactor: IocpProactor
+INFO 2025-08-05 22:19:54,882 autoreload Watching for file changes with StatReloader
+DEBUG 2025-08-05 22:20:24,892 proactor_events Using proactor: IocpProactor
+DEBUG 2025-08-05 22:20:24,982 proactor_events Using proactor: IocpProactor
+INFO 2025-08-05 22:20:33,539 autoreload Watching for file changes with StatReloader
+DEBUG 2025-08-05 22:20:57,274 proactor_events Using proactor: IocpProactor
+DEBUG 2025-08-05 22:20:57,357 proactor_events Using proactor: IocpProactor
+INFO 2025-08-05 22:20:59,292 autoreload Watching for file changes with StatReloader
+INFO 2025-08-05 22:21:16,245 autoreload C:\Users\matyt\Desktop\github_shin00x0\Realstate-project2\blog\views.py changed, reloading.
+DEBUG 2025-08-05 22:21:16,247 proactor_events Using proactor: IocpProactor
+INFO 2025-08-05 22:21:17,362 autoreload Watching for file changes with StatReloader
+WARNING 2025-08-05 22:21:32,802 log Not Found: /blog/detail/images/80x80.jpg
+INFO 2025-08-05 22:22:51,164 autoreload C:\Users\matyt\Desktop\github_shin00x0\Realstate-project2\blog\views.py changed, reloading.
+DEBUG 2025-08-05 22:22:51,166 proactor_events Using proactor: IocpProactor
+INFO 2025-08-05 22:22:52,220 autoreload Watching for file changes with StatReloader
+INFO 2025-08-05 22:23:39,614 autoreload C:\Users\matyt\Desktop\github_shin00x0\Realstate-project2\blog\views.py changed, reloading.
+DEBUG 2025-08-05 22:23:39,615 proactor_events Using proactor: IocpProactor
+INFO 2025-08-05 22:23:40,574 autoreload Watching for file changes with StatReloader
+WARNING 2025-08-05 22:23:55,379 log Not Found: /.well-known/appspecific/com.chrome.devtools.json
+WARNING 2025-08-05 22:24:11,526 log Not Found: /properties/images/80x80.jpg
+INFO 2025-08-05 22:26:09,384 autoreload C:\Users\matyt\Desktop\github_shin00x0\Realstate-project2\real_state\urls.py changed, reloading.
+DEBUG 2025-08-05 22:26:09,385 proactor_events Using proactor: IocpProactor
+INFO 2025-08-05 22:26:10,595 autoreload Watching for file changes with StatReloader
+INFO 2025-08-05 22:26:14,131 autoreload C:\Users\matyt\Desktop\github_shin00x0\Realstate-project2\real_state\views.py changed, reloading.
+DEBUG 2025-08-05 22:26:14,132 proactor_events Using proactor: IocpProactor
+INFO 2025-08-05 22:26:15,215 autoreload Watching for file changes with StatReloader
+INFO 2025-08-05 22:26:35,398 autoreload C:\Users\matyt\Desktop\github_shin00x0\Realstate-project2\real_state\views.py changed, reloading.
+DEBUG 2025-08-05 22:26:35,401 proactor_events Using proactor: IocpProactor
+INFO 2025-08-05 22:26:36,394 autoreload Watching for file changes with StatReloader
+DEBUG 2025-08-05 22:26:37,673 proactor_events Using proactor: IocpProactor
+DEBUG 2025-08-05 22:26:37,751 proactor_events Using proactor: IocpProactor
+INFO 2025-08-05 22:26:40,521 autoreload Watching for file changes with StatReloader
+WARNING 2025-08-05 22:26:44,659 log Not Found: /properties/images/80x80.jpg
+WARNING 2025-08-05 22:26:45,164 log Not Found: /about/images/partner-logo6.png
+WARNING 2025-08-05 22:26:45,188 log Not Found: /about/images/partner-logo8.png
+WARNING 2025-08-05 22:26:45,193 log Not Found: /about/images/partner-logo7.png
+WARNING 2025-08-05 22:26:45,196 log Not Found: /about/images/partner-logo1.png
+WARNING 2025-08-05 22:26:45,201 log Not Found: /about/images/partner-logo5.png
+INFO 2025-08-05 22:29:27,224 autoreload C:\Users\matyt\Desktop\github_shin00x0\Realstate-project2\real_state\views.py changed, reloading.
+DEBUG 2025-08-05 22:29:27,224 proactor_events Using proactor: IocpProactor
+INFO 2025-08-05 22:29:28,181 autoreload Watching for file changes with StatReloader
+INFO 2025-08-05 22:29:37,958 autoreload C:\Users\matyt\Desktop\github_shin00x0\Realstate-project2\real_state\views.py changed, reloading.
+DEBUG 2025-08-05 22:29:37,958 proactor_events Using proactor: IocpProactor
+INFO 2025-08-05 22:29:38,915 autoreload Watching for file changes with StatReloader
+INFO 2025-08-05 22:37:39,094 autoreload C:\Users\matyt\Desktop\github_shin00x0\Realstate-project2\real_state\views.py changed, reloading.
+DEBUG 2025-08-05 22:37:39,094 proactor_events Using proactor: IocpProactor
+INFO 2025-08-05 22:37:40,209 autoreload Watching for file changes with StatReloader
+INFO 2025-08-05 23:11:40,525 autoreload C:\Users\matyt\Desktop\github_shin00x0\Realstate-project2\real_state\views.py changed, reloading.
+DEBUG 2025-08-05 23:11:40,526 proactor_events Using proactor: IocpProactor
+INFO 2025-08-05 23:11:41,658 autoreload Watching for file changes with StatReloader
+INFO 2025-08-07 16:07:52,172 autoreload Watching for file changes with StatReloader
+INFO 2025-08-07 16:08:07,195 autoreload C:\Users\matyt\Desktop\github_shin00x0\Realstate-project2\real_state\forms.py changed, reloading.
+DEBUG 2025-08-07 16:08:07,196 proactor_events Using proactor: IocpProactor
+DEBUG 2025-08-07 16:08:08,061 proactor_events Using proactor: IocpProactor
+INFO 2025-08-07 16:08:09,935 autoreload Watching for file changes with StatReloader
+WARNING 2025-08-07 16:08:14,416 log Not Found: /favicon.ico
+WARNING 2025-08-07 16:08:35,439 log Not Found: /properties/images/80x80.jpg
+ERROR 2025-08-07 16:09:08,409 log Internal Server Error: /contact/
+Traceback (most recent call last):
+  File "C:\Users\matyt\Desktop\github_shin00x0\Realstate-project2\env\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\matyt\Desktop\github_shin00x0\Realstate-project2\env\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\Realstate-project2\env\lib\site-packages\django\utils\decorators.py", line 130, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\matyt\Desktop\github_shin00x0\Realstate-project2\real_state\views.py", line 62, in ContactView
+    send_mail(subject, content, settings.EMAIL_HOST_USER, ['matias.altamiranove@gmail.com'], fail_silently=False)
+AttributeError: module 'app.settings' has no attribute 'EMAIL_HOST_USER'
+INFO 2025-08-07 16:09:40,488 autoreload C:\Users\matyt\Desktop\github_shin00x0\Realstate-project2\real_state\forms.py changed, reloading.
+DEBUG 2025-08-07 16:09:40,488 proactor_events Using proactor: IocpProactor
+INFO 2025-08-07 16:09:41,284 autoreload Watching for file changes with StatReloader
+INFO 2025-08-07 16:09:55,412 autoreload C:\Users\matyt\Desktop\github_shin00x0\Realstate-project2\real_state\forms.py changed, reloading.
+DEBUG 2025-08-07 16:09:55,413 proactor_events Using proactor: IocpProactor
+INFO 2025-08-07 16:09:56,299 autoreload Watching for file changes with StatReloader
+DEBUG 2025-08-07 16:09:59,058 proactor_events Using proactor: IocpProactor
+DEBUG 2025-08-07 16:09:59,135 proactor_events Using proactor: IocpProactor
+INFO 2025-08-07 16:10:01,041 autoreload Watching for file changes with StatReloader
+WARNING 2025-08-07 16:10:01,381 log Not Found: /favicon.ico
+WARNING 2025-08-07 16:10:12,413 log Not Found: /blog/detail/images/80x80.jpg
+INFO 2025-08-07 16:10:29,839 autoreload C:\Users\matyt\Desktop\github_shin00x0\Realstate-project2\real_state\forms.py changed, reloading.
+DEBUG 2025-08-07 16:10:29,840 proactor_events Using proactor: IocpProactor
+INFO 2025-08-07 16:10:30,731 autoreload Watching for file changes with StatReloader
+INFO 2025-08-07 16:12:51,231 autoreload C:\Users\matyt\Desktop\github_shin00x0\Realstate-project2\real_state\views.py changed, reloading.
+DEBUG 2025-08-07 16:12:51,232 proactor_events Using proactor: IocpProactor
+INFO 2025-08-07 16:12:52,030 autoreload Watching for file changes with StatReloader
+INFO 2025-08-07 16:14:23,620 autoreload C:\Users\matyt\Desktop\github_shin00x0\Realstate-project2\app\settings\base.py changed, reloading.
+DEBUG 2025-08-07 16:14:23,621 proactor_events Using proactor: IocpProactor
+INFO 2025-08-07 16:14:24,377 autoreload Watching for file changes with StatReloader
+INFO 2025-08-07 16:14:25,765 autoreload C:\Users\matyt\Desktop\github_shin00x0\Realstate-project2\app\settings\base.py changed, reloading.
+DEBUG 2025-08-07 16:14:25,765 proactor_events Using proactor: IocpProactor
+INFO 2025-08-07 16:14:26,514 autoreload Watching for file changes with StatReloader
+INFO 2025-08-07 16:14:27,891 autoreload C:\Users\matyt\Desktop\github_shin00x0\Realstate-project2\app\settings\base.py changed, reloading.
+DEBUG 2025-08-07 16:14:27,892 proactor_events Using proactor: IocpProactor
+INFO 2025-08-07 16:14:28,696 autoreload Watching for file changes with StatReloader
+INFO 2025-08-07 16:16:34,390 autoreload C:\Users\matyt\Desktop\github_shin00x0\Realstate-project2\app\settings\base.py changed, reloading.
+DEBUG 2025-08-07 16:16:34,391 proactor_events Using proactor: IocpProactor
+INFO 2025-08-07 16:16:35,156 autoreload Watching for file changes with StatReloader
+DEBUG 2025-08-07 16:16:36,749 proactor_events Using proactor: IocpProactor
+DEBUG 2025-08-07 16:16:36,822 proactor_events Using proactor: IocpProactor
+INFO 2025-08-07 16:16:45,308 autoreload Watching for file changes with StatReloader
+DEBUG 2025-08-07 16:20:36,017 proactor_events Using proactor: IocpProactor
+DEBUG 2025-08-07 16:20:36,087 proactor_events Using proactor: IocpProactor
+INFO 2025-08-07 16:20:41,481 autoreload Watching for file changes with StatReloader
+DEBUG 2025-08-07 16:20:45,851 connectionpool Starting new HTTPS connection (1): o4508789850505216.ingest.us.sentry.io:443
+DEBUG 2025-08-07 16:20:46,161 connectionpool https://o4508789850505216.ingest.us.sentry.io:443 "POST /api/4508789852078080/envelope/ HTTP/1.1" 200 41
+DEBUG 2025-08-07 16:25:26,249 proactor_events Using proactor: IocpProactor
+DEBUG 2025-08-07 16:25:26,342 proactor_events Using proactor: IocpProactor
